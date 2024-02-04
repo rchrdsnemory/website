@@ -4,7 +4,6 @@ format:
   quarto-cv-pdf: default
 author: Jan Pfänder
 date: last-modified
-phone: 123-456-7890
 address: "Phd student, École Normale Supérieure, Paris"
 email: janlukas.pfaender@gmail.com
 fontsize: 11pt
@@ -15,7 +14,7 @@ fontsize: 11pt
 #orcid: 0000-0002-1825-0097 # orcid identifier
 #osf: ymqui # osf five character id
 #twitter: twitter # twitter handle
-web: quarto.org
+web: https://janpfander.github.io/
 fontawesome: yes
 nocite: '@*'
 bibliography: 
@@ -27,17 +26,13 @@ csl: apa-cv.csl
 
 # Education
 
-**École Normale Supérieure** \hfill 2022-present 
-\newline _Phd student, supervised by Hugo Mercier_
+**École Normale Supérieure** \hfill 2022-present \newline *Phd student, supervised by Hugo Mercier*
 
-**École Normale Supérieure** \hfill 2020-2022 
-\newline _MA Cognitive Science_
+**École Normale Supérieure** \hfill 2020-2022 \newline *MA Cognitive Science*
 
-**Universität Freiburg** \hfill 2019-2020 
-\newline _MA Journalism, first year_
+**Universität Freiburg** \hfill 2019-2020 \newline *MA Journalism, first year*
 
-**Universität Konstanz** \hfill 2014-2018 
-\newline _BA Political science and Public administration_
+**Universität Konstanz** \hfill 2014-2018 \newline *BA Political science and Public administration*
 
 # Work
 
