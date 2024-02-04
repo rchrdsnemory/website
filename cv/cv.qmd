@@ -26,13 +26,17 @@ csl: apa-cv.csl
 
 # Education
 
-**École Normale Supérieure** \hfill 2022-present \newline *Phd student, supervised by Hugo Mercier*
+**École Normale Supérieure** \hfill 2022-present 
+\newline _Phd student, supervised by Hugo Mercier_
 
-**École Normale Supérieure** \hfill 2020-2022 \newline *MA Cognitive Science*
+**École Normale Supérieure** \hfill 2020-2022 
+\newline _MA Cognitive Science_
 
-**Universität Freiburg** \hfill 2019-2020 \newline *MA Journalism, first year*
+**Universität Freiburg** \hfill 2019-2020 
+\newline _MA Journalism, first year_
 
-**Universität Konstanz** \hfill 2014-2018 \newline *BA Political science and Public administration*
+**Universität Konstanz** \hfill 2014-2018 
+\newline _BA Political science and Public administration_
 
 # Work
 
