@@ -12,7 +12,6 @@ website:
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    
     # your sub-pages
     left:
       - text: "Research"
@@ -20,7 +19,6 @@ website:
       - text: "CV"
         href: cv/index.qmd
         
-    
     # your social media handles
     right:
       - icon: github
@@ -30,6 +28,15 @@ website:
       - icon: envelope
         aria-label: email
         href: "mailto:janlukas.pfaender@gmail.com" 
+        
+  page-footer: 
+    background: light
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Jan Pfänder</span>
+      
+    right: |
+      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>, 
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub]({{< var github-url >}})</span>
 
 format:
   html:
