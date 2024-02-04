@@ -8,7 +8,7 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com/janpfa
+      href: https://github.com/janpfander
     - icon: twitter
       text: Twitter
       href: https://twitter.com/janpfaender
