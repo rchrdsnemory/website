@@ -1,0 +1,11 @@
+---
+title: Research
+---
+
+## Working papers
+
+### Spotting False News and Doubting True News: A Meta-Analysis of News Judgments
+
+<a href="https://osf.io/96zbp/" target="_blank">OSF preprint</a> | <a href="https://github.com/janpfa/meta_news_judgement" target="_blank">code and data</a><br>
+
+How good are people at judging the veracity of news? We conducted a systematic literature review and pre-registered meta-analysis of experimental articles evaluating accuracy ratings of true and false news. We found that people rated true news as more accurate than false news and were better at rating false news as false than at rating true news as true. In other words, participants were able to discern true from false news, and erred on the side of skepticism rather than credulity. The political concordance of the news had no effect on discernment, but participants were more skeptical of politically discordant news. These findings lend support to crowdsourced fact-checking initiatives, and suggest that, to improve discernment, there is more room to increase the acceptance of true news than to reduce the acceptance of false news.

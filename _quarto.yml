@@ -1,19 +1,42 @@
 project:
   type: website
+  output-dir: docs
 
+
+# website settings
 website:
-  title: "website"
+  title: "Jan Pfänder"                                # Your name
+  image: images/profile.jpg
+  
+  
+  # start of the navigation bar at the top of the website
   navbar:
+    pinned: true
+    
+    # your sub-pages
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Research"
+        href: research/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+        
+    
+    # your social media handles
+    right:
+      - icon: github
+        href: https://github.com/janpfa
+      - icon: twitter
+        href: https://twitter.com/janpfaender
+      - icon: envelope
+        aria-label: email
+        href: "mailto:janlukas.pfaender@gmail.com" 
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

@@ -1,0 +1,59 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Jan Pfänder
+date: last-modified
+phone: 123-456-7890
+address: "Phd student, École Normale Supérieure, Paris"
+email: janlukas.pfaender@gmail.com
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+#mainfont: Ubuntu # if you want to use a different locally installed font
+#CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
+#github: github # github account
+#orcid: 0000-0002-1825-0097 # orcid identifier
+#osf: ymqui # osf five character id
+#twitter: twitter # twitter handle
+web: quarto.org
+fontawesome: yes
+nocite: '@*'
+bibliography: 
+  peer: peer.bib
+  working: working.bib
+validate-yaml: false
+csl: apa-cv.csl
+---
+
+# Education
+
+**École Normale Supérieure** \hfill 2022-present 
+\newline _Phd student, supervised by Hugo Mercier_
+
+**École Normale Supérieure** \hfill 2020-2022 
+\newline _MA Cognitive Science_
+
+**Universität Freiburg** \hfill 2019-2020 
+\newline _MA Journalism, first year_
+
+**Universität Konstanz** \hfill 2014-2018 
+\newline _BA Political science and Public administration_
+
+# Work
+
+Research intern, *École Normale Supérieure, Paris, supervised by Hugo Mercier* \hfill September 2020 - Juin 2022
+
+Parliamentary assistant, *Assemblée Nationale, Paris* \hfill September 2018 - July 2019
+
+Research assistant, *University of St. Gallen* \hfill June 2017 - July 2018
+
+# Publications
+
+## Working papers
+
+::: {#refs-working}
+:::
+
+# Teaching
+
+**Université PSL, Paris** \newline Critical thinking and fact checking, *(Undergraduate; sole instructor; 30h)* \hfill Spring 2024 \newline Evidence-based everything, *(Undergraduate; sole instructor; 30h)* \hfill Fall 2022
