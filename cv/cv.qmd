@@ -56,3 +56,6 @@ Research assistant, *University of St. Gallen* \hfill June 2017 - July 2018
 # Teaching
 
 **Université PSL, Paris** \newline Critical thinking and fact checking, *(Undergraduate; sole instructor; 30h)* \hfill Spring 2024 \newline Evidence-based everything, *(Undergraduate; sole instructor; 30h)* \hfill Fall 2022
+
+# Talks
+Pfänder, J., & Altay, S. (2024, February 26). *Spotting False News and Doubting True News: A Meta-Analysis of News Judgments*. EDMO Scientific Conference on Disinformation, Amsterdam.

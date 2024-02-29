@@ -39,14 +39,14 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "OSF preprint | code and data\nHow good are people at judging the veracity of news? We conducted a systematic literature review and pre-registered meta-analysis of experimental articles evaluating accuracy ratings of true and false news. We found that people rated true news as more accurate than false news and were better at rating false news as false than at rating true news as true. In other words, participants were able to discern true from false news, and erred on the side of skepticism rather than credulity. The political concordance of the news had no effect on discernment, but participants were more skeptical of politically discordant news. These findings lend support to crowdsourced fact-checking initiatives, and suggest that, to improve discernment, there is more room to increase the acceptance of true news than to reduce the acceptance of false news."
+    "text": "Pfänder, J., & Altay, S. (2024). Spotting false news and doubting true news: A meta-analysis of news judgments. https://doi.org/10.31219/osf.io/n9h4y ( pdf |  code & data)"
   },
   {
     "objectID": "research/index.html#working-papers",
     "href": "research/index.html#working-papers",
     "title": "Research",
     "section": "",
-    "text": "OSF preprint | code and data\nHow good are people at judging the veracity of news? We conducted a systematic literature review and pre-registered meta-analysis of experimental articles evaluating accuracy ratings of true and false news. We found that people rated true news as more accurate than false news and were better at rating false news as false than at rating true news as true. In other words, participants were able to discern true from false news, and erred on the side of skepticism rather than credulity. The political concordance of the news had no effect on discernment, but participants were more skeptical of politically discordant news. These findings lend support to crowdsourced fact-checking initiatives, and suggest that, to improve discernment, there is more room to increase the acceptance of true news than to reduce the acceptance of false news."
+    "text": "Pfänder, J., & Altay, S. (2024). Spotting false news and doubting true news: A meta-analysis of news judgments. https://doi.org/10.31219/osf.io/n9h4y ( pdf |  code & data)"
   },
   {
     "objectID": "about.html",
@@ -61,5 +61,12 @@
     "title": "Jan Pfänder",
     "section": "",
     "text": "Download current CV"
+  },
+  {
+    "objectID": "research/index.html#talks",
+    "href": "research/index.html#talks",
+    "title": "Research",
+    "section": "Talks",
+    "text": "Talks\n\nPfänder, J., & Altay, S. (2024, February 26). Spotting False News and Doubting True News: A Meta-Analysis of News Judgments. EDMO Scientific Conference on Disinformation, Amsterdam. ( slides)"
   }
 ]
