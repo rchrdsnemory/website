@@ -14,7 +14,7 @@ fontsize: 11pt
 #orcid: 0000-0002-1825-0097 # orcid identifier
 #osf: ymqui # osf five character id
 #twitter: twitter # twitter handle
-web: https://janpfander.github.io/
+web: https://janpfander.github.io
 fontawesome: yes
 nocite: '@*'
 bibliography: 

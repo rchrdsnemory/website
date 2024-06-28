@@ -8,3 +8,7 @@
 .quarto
 
 /.quarto/
+
+# keynote files
+
+*.key

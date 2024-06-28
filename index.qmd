@@ -19,12 +19,10 @@ about:
 
 # Hi!
 
-I am Jan, a PhD student trying to understand why people trust in science, and why sometimes they don't. 
+I am Jan, a PhD student trying to understand why people trust in science, and why sometimes they don't.
 
-I care about this, because trust in science can literally be a question of life and death, for example when it comes to vaccines during pandemics. 
+I care about this, because trust in science can literally be a question of life and death, for example when it comes to vaccines during pandemics.
 
 More broadly, I'm interested in how people evaluate information, and what drives people to develop and propagate explanations about the world, including science, but also conspiracy theories, religion, or political ideology.
 
 I'm supervised by [Hugo Mercier](https://sites.google.com/site/hugomercier/), and I am part of the [Evolution and Social Cognition team](https://esc.dec.ens.fr/en/evolution-and-social-cognition-members-10877).
-
-
