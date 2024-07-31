@@ -1,0 +1,279 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+\usepackage{xcolor}
+\usepackage{fontawesome}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+% Custom command for formatting publication subheadings
+\newcommand{\resumePublicationHeading}[1]{
+  \vspace{5pt} % Adjust space before the heading if needed
+  \noindent\textbf{\small #1} % Apply small font size and bold to the heading
+  \vspace{2pt} % Adjust space after the heading if needed
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    \text{\Huge \scshape Jan Pfänder} \\ \vspace{1pt}
+    \textit{\scshape PhD Student $\cdot$ École Normale Supérieure (ENS-PSL), Institut Jean Nicod} \\ \vspace{1pt}
+    \small 
+    \faEnvelope\ janlukas.pfaender -at- gmail.com $|$ 
+    \faHome\ \href{https://janpfander.github.io}{janpfander.github.io} $|$
+    %\faLinkedin\ \href{https://linkedin.com/in/...}{linkedin.com/in/jake} $|$ 
+    \faGithub\ \href{https://github.com/janpfander}{github.com/janpfander}
+\end{center}
+
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {École Normale Supérieure (ENS-PSL), Institut Jean Nicod}{Paris, France}
+      {PhD Psychology}{Expected Graduation: Fall 2025}
+            \resumeItemListStart
+        \resumeItem{Advisors: Hugo Mercier \& Kevin Arceneaux}
+        \resumeItem{Job Market Paper: Spotting False News and Doubting True News: A Meta-Analysis of News Judgments}
+        \resumeItem{Thesis: Essays on Understanding Trust in Science}
+      \resumeItemListEnd
+    \resumeSubheading
+      {École Normale Supérieure (ENS-PSL)}{Paris, France}
+      {MA Cognitive Science}{2020 -- 2022}
+            \resumeItemListStart
+        \resumeItem{Advisor: Hugo Mercier}            
+        \resumeItem{Thesis: How wise is the crowd -- Can we infer people are accurate and competent \\ merely because they agree with each other?}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Universität Freiburg}{Freiburg, Germany}
+      {MA Journalism, 1st year}{2019 -- 2020} 
+    \resumeSubheading
+      {Universität Konstanz}{Konstanz, Germany}
+      {BA Political Science and Public Administration}{2014 -- 2018}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Work Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {École Normale Supérieure (ENS-PSL), Institut Jean Nicod}{Paris, France}
+      {Research Intern}{September 2020 -- June 2022}
+
+    \resumeSubheading
+      {Direction Interministérielle de la Transformation Publique (DITP)}{Paris, France}
+      {Research Intern}{June 2020 -- August 2020}
+      
+    \resumeSubheading
+      {Assemblée Nationale}{Paris, France}
+      {Parliamentary Assistant}{September 2018 -- July 2019}
+
+    \resumeSubheading
+      {University of St. Gallen}{St. Gallen, Switzerland}
+      {Research Assistant}{June 2017 -- July 2018}
+      
+% -----------Multiple Positions Heading-----------
+%    \resumeSubSubheading
+%     {Software Engineer I}{Oct 2014 - Sep 2016}
+%     \resumeItemListStart
+%        \resumeItem{Apache Beam}
+%          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
+%     \resumeItemListEnd
+%    \resumeSubHeadingListEnd
+%-------------------------------------------
+
+  \resumeSubHeadingListEnd
+
+%-----------Teaching-----------
+\section{Teaching}
+
+% Intermediate heading for Courses
+\subsection*{Courses}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Critical thinking and fact checking} $|$ \emph{Université PSL (Paris Sciences \& Lettres)}}{2022 -- Present}
+          \resumeItemListStart
+            \resumeItem{A hands-on introduction to research design for the interdisciplinary BA program \\ "Sciences pour un monde durable"}
+            \resumeItem{Sole instructor \& creator of the course}
+            \resumeItem{30h in-class per semester; one semester a year}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+% Intermediate heading for Courses
+\subsection*{Workshops}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Meta-analysis for beginners}}{}
+          \resumeItemListStart
+            \resumeItem{Laboratoire de Psychologie du Développement et  de l'Éducation de l'Enfant (LaPsyDÉ) \emph{(2h)} $|$ \emph{June 2024}}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+%-----------PUBLICATIONS-----------
+\section{Publications}
+
+
+% Set font size for the entire Publications section
+\small
+
+\noindent\textcolor{gray}{\textit{\footnotemark[1]first author}}
+\vspace{5pt} % Adjust the space if needed
+
+% Use custom command for subheadings
+\resumePublicationHeading{Peer Reviewed Publications}
+\begin{enumerate}[label={[{\arabic*.}]}, left=0.15in]
+    \resumeItem{\textbf{Pfänder, J.\footnotemark[1]}, de Courson, B., & Mercier, H. (2024). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? \emph{Proceedings of the Annual Meeting of the Cognitive Science Society, 46(0)}. \url{https://escholarship.org/uc/item/4ms2n8wd}
+    }
+    % Add more published publications as needed
+\end{enumerate}
+
+\resumePublicationHeading{Work in Progress}
+\begin{enumerate}[label={[{\arabic*.}]}, left=0.15in, resume]
+    \resumeItem{\textbf{Pfänder, J.\footnotemark[1]}, \& Altay, S. (2024). Spotting False News and Doubting True News: A Meta-Analysis of News Judgments. \url{https://doi.org/10.31219/osf.io/n9h4y} \emph{(Submitted)}
+    }
+
+\end{enumerate}
+
+%-----------Talks-----------
+\section{Talks}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Spotting False News and Doubting True News: A Meta-Analysis of News Judgments}}{}
+          \resumeItemListStart
+            \resumeItem{EDMO Scientific Conference on Disinformation $|$ \emph{Amsterdam, May 2024}}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Processus sous-tendant la confiance dans la science}}{}
+          \resumeItemListStart
+            \resumeItem{5ème édition des Rencontres Jeunes Chercheur·euse·s $|$ \emph{Grenoble, June 2024}}
+    \resumeSubHeadingListEnd
+
+%-----------Other-----------
+\section{External Coursework \& Summer Schools}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Diverse Intelligences Summer Institute}{St. Andrews, UK}
+      {Hosted by the University of St. Andrews and organized by Indiana University Bloomington
+}{July 2024}
+
+  \resumeSubHeadingListEnd
+
+%-----------SKILLS-----------
+\section{Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: German, English, French, Spanish} \\
+     \textbf{Programming}{: R, Python (rudimentary), Git} \\
+    }}
+ \end{itemize}
+
+%-------------------------------------------
+\end{document}

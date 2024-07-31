@@ -1,11 +1,14 @@
 ---
 title: Research
-csl: ../cv/apa-cv.csl
+csl: apa-cv.csl
 bibliography: references.bib
 suppress-bibliography: true
 link-citations: false
 citations-hover: false
 ---
+
+## Publications
+-   @pfanderHowWiseCrowd2024([<i class="fas fa-file-pdf"></i> pdf](pdfs/how_wise_is_crowd.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>poster](talks/cogsci_2024.pdf) \| [<i class="fab fa-github"></i> code & data](https://github.com/janpfander/consensus_trust.git))
 
 ## Working papers
 
@@ -13,4 +16,4 @@ citations-hover: false
 
 ## Talks
 
-- Pfänder, J., & Altay, S. (2024, February 26). *Spotting False News and Doubting True News: A Meta-Analysis of News Judgments*. EDMO Scientific Conference on Disinformation, Amsterdam. ([<i class="fas fa-desktop"></i> slides](talks/amsterdam_2024.pdf))
+-   Pfänder, J., & Altay, S. (2024, February 26). *Spotting False News and Doubting True News: A Meta-Analysis of News Judgments*. EDMO Scientific Conference on Disinformation, Amsterdam. ([<i class="fas fa-desktop"></i> slides](talks/amsterdam_2024.pdf))

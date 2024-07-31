@@ -39,14 +39,14 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Pfänder, J., & Altay, S. (2024). Spotting false news and doubting true news: A meta-analysis of news judgments. https://doi.org/10.31219/osf.io/n9h4y ( pdf |  code & data)"
+    "text": "Pfänder, J., Courson, B. de, & Mercier, H. (2024). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? Proceedings of the Annual Meeting of the Cognitive Science Society, 46(0). https://escholarship.org/uc/item/4ms2n8wd( pdf | poster |  code & data)"
   },
   {
     "objectID": "research/index.html#working-papers",
     "href": "research/index.html#working-papers",
     "title": "Research",
-    "section": "",
-    "text": "Pfänder, J., & Altay, S. (2024). Spotting false news and doubting true news: A meta-analysis of news judgments. https://doi.org/10.31219/osf.io/n9h4y ( pdf |  code & data)"
+    "section": "Working papers",
+    "text": "Working papers\n\nPfänder, J., & Altay, S. (2024). Spotting false news and doubting true news: A meta-analysis of news judgments. https://doi.org/10.31219/osf.io/n9h4y ( pdf |  code & data)"
   },
   {
     "objectID": "about.html",
@@ -152,5 +152,12 @@
     "title": "Meta analysis for absolute beginners",
     "section": "Footnotes",
     "text": "Footnotes\n\n\noften researchers use a z-transformed version of a correlation coefficient↩︎\nthese are part of in-(or ex-)clusion criteria, but let’s leave that for later↩︎\nOn scopus, you can additionally save your search history and results by making an account.↩︎\nThere are ways to quantify the agreement between raters (e.g. Cohen’s kappa), but we don’t bother much about that here.↩︎\nor exclusion, depending on how you want to frame it↩︎"
+  },
+  {
+    "objectID": "research/index.html#publications",
+    "href": "research/index.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "Pfänder, J., Courson, B. de, & Mercier, H. (2024). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? Proceedings of the Annual Meeting of the Cognitive Science Society, 46(0). https://escholarship.org/uc/item/4ms2n8wd( pdf | poster |  code & data)"
   }
 ]
