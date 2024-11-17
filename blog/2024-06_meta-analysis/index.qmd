@@ -11,7 +11,7 @@ categories:
 #   url: https://samanthacsik.github.io/posts/2024-03-31-data-viz-course/
 citation: true
 bibliography: references.bib
-draft: false
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
 ```{r}
@@ -40,7 +40,7 @@ The basic idea of meta-analysis is easy: the more data the better. Results of si
 
 Imagine our research question is: **"Can people tell true news from false News"**. And we know that there is psychological literature on that topic. These studies typically look like this:
 
-::: columns
+::::: columns
 ::: {.column width="50%"}
 ![Example of items used by @pennycookPracticalGuideDoing2021](images/example-item.jpg){width="100%"}
 :::
@@ -48,7 +48,7 @@ Imagine our research question is: **"Can people tell true news from false News"*
 ::: {.column width="50%"}
 ![](images/example-item2.jpg){width="100%"}
 :::
-:::
+:::::
 
 Participants see a bunch of news headlines, sometimes with a lede and source, as they would appear on social media typically. Some of these headlines are false (typically identified as such by fact-checking sites such as Snopes), and some of them are true. For each news headline, they are asked to which extent they believe the headline to be accurate, (e.g. "To the best of your knowledge, how accurate is the claim in the above headline" 1 = Not at all accurate, 4 = Very accurate).
 
@@ -267,7 +267,7 @@ In our case, we settled on this search string
 
 There are a couple of things here. We used 'OR's and 'AND's to combine words. These are Boolean operators. Quick quizz:
 
-::: quiz
+:::: quiz
 <i class="fa fa-question-circle quiz-icon"></i>
 
 <div>
@@ -275,9 +275,9 @@ There are a couple of things here. We used 'OR's and 'AND's to combine words. Th
 Imagine we would have run a title-search (i.e. not searching abstracts or other content, but only the headlines of articles). Would this search string have yielded a study called "News accuracy ratings of US adults during 2016 presidential elections"?
 
 </div>
-:::
+::::
 
-::: columns
+::::: columns
 ::: {.column width="50%"}
 ![Boolean AND operator. Only if both keywords are included, a result will show up.](images/boolean_operator_AND.png){width="100%"}
 :::
@@ -285,7 +285,7 @@ Imagine we would have run a title-search (i.e. not searching abstracts or other 
 ::: {.column width="50%"}
 ![Boolean OR operator. As long as one of the keywords is included, a result will show up.](images/boolean_operator_OR.png){width="100%"}
 :::
-:::
+:::::
 
 No. And that is because of the boolean operators. The "OR" operator tells the search engine that as long as one of the keywords is matched, return the result. By contrast, the AND operator tells the search engine, that both keywords need to be matched. For example, "accuracy" **OR** "discernment" would return an article entitled "News accuracy ratings of US adults during 2016 presidential elections", whereas "accuracy" **AND** "discernment" would not.
 
@@ -321,7 +321,7 @@ We can use some more refined criteria to filter out some likely irrelevant resul
 
 [^2]: these are part of in-(or ex-)clusion criteria, but let's leave that for later
 
-::: columns
+::::: columns
 ::: {.column width="50%"}
 ![](images/scopus_3.png){width="50%"}
 :::
@@ -329,7 +329,7 @@ We can use some more refined criteria to filter out some likely irrelevant resul
 ::: {.column width="50%"}
 ![](images/scopus_4.png){width="60%"}
 :::
-:::
+:::::
 
 The more restrictions we make, the more it will reduce the number of search results. You will also not that adding these restrictions changes the search string (you can see the full string by clicking on the orange "Advanced query" button).
 
@@ -339,7 +339,7 @@ If we're finally happy with our search, we need to save the search results somew
 
 [^3]: On scopus, you can additionally save your search history and results by making an account.
 
-::: columns
+::::: columns
 ::: {.column width="50%"}
 ![Boolean AND operator. Only if both keywords are included, a result will show up.](images/scopus_6.png){width="50%"}
 :::
@@ -347,9 +347,9 @@ If we're finally happy with our search, we need to save the search results somew
 ::: {.column width="50%"}
 ![Boolean OR operator. As long as one of the keywords is included, a result will show up.](images/scopus_7.png){width="60%"}
 :::
-:::
+:::::
 
-::: exercise
+:::: exercise
 <i class="fa fa-computer exercise-icon"></i>
 
 <div>
@@ -363,7 +363,7 @@ Time to run your own literature search:
 5.  Download a `.csv` file with the first 100 results
 
 </div>
-:::
+::::
 
 Now that we have all results stored, there are still many, many articles. Do we have to read them all? No. Before we start reading entire papers, we do screening.
 
@@ -375,7 +375,7 @@ There are usually two stages of screening: (i) title screening and (ii) abstract
 
 During title screening we throw out titles that are very obviously not relevant.
 
-::: exercise
+:::: exercise
 <i class="fa fa-computer exercise-icon"></i>
 
 <div>
@@ -390,7 +390,7 @@ Do your:
 6.  Compare with your partner and explain cases of exclusion
 
 </div>
-:::
+::::
 
 There will almost certainly be some cases where you and your co-reviewer will not agree.[^4].
 
@@ -424,7 +424,7 @@ The restrictions we made on our data base are technically also inclusion criteri
 
 Inclusion criteria might be evolving during your screening process. Most likely, you weren't completely clear on everything you want or not, before launching the literature search. That's fine, as long as you are transparent about it (see section of pre-registration).
 
-::: exercise
+:::: exercise
 <i class="fa fa-computer exercise-icon"></i>
 
 <div>
@@ -437,13 +437,13 @@ Inclusion criteria might be evolving during your screening process. Most likely,
 4.  Compare your decisions
 
 </div>
-:::
+::::
 
 ### Full text assessment
 
 Now, finally, it is time to read full articles.
 
-::: exercise
+:::: exercise
 <i class="fa fa-computer exercise-icon"></i>
 
 <div>
@@ -451,15 +451,16 @@ Now, finally, it is time to read full articles.
 Within your groups:
 
 1.  Pick one of these two articles each, i.e. one per person.
-  - Dias, N., Pennycook, G., & Rand, D. G. (2020). Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media. Harvard Kennedy School Misinformation Review. https://doi.org/10.37016/mr-2020-001
-  - Roozenbeek, J., Schneider, C. R., Dryhurst, S., Kerr, J., Freeman, A. L. J., Recchia, G., van der Bles, A. M., & van der Linden, S. (2020). Susceptibility to misinformation about COVID-19 around the world. Royal Society Open Science, 7(10), 201199. https://doi.org/10.1098/rsos.201199
+
+-   Dias, N., Pennycook, G., & Rand, D. G. (2020). Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media. Harvard Kennedy School Misinformation Review. https://doi.org/10.37016/mr-2020-001
+-   Roozenbeek, J., Schneider, C. R., Dryhurst, S., Kerr, J., Freeman, A. L. J., Recchia, G., van der Bles, A. M., & van der Linden, S. (2020). Susceptibility to misinformation about COVID-19 around the world. Royal Society Open Science, 7(10), 201199. https://doi.org/10.1098/rsos.201199
 
 2.  Access the articles via the usual means you find and download papers.
 3.  Think about whether you include them.
 4.  Extract the information you need.
 
 </div>
-:::
+::::
 
 ### Pre-registration
 
@@ -467,7 +468,7 @@ Ideally, you should already preregister after you are clear on your research que
 
 ### PRISMA
 
-What we just did follows pretty closely the [PRISMA guidelines](https://www.prisma-statement.org/). Once you are done with your systematic review, you should use their overview template to communicate your literature review and its different stages. 
+What we just did follows pretty closely the [PRISMA guidelines](https://www.prisma-statement.org/). Once you are done with your systematic review, you should use their overview template to communicate your literature review and its different stages.
 
 ## IV Meta-analysis
 
@@ -535,19 +536,19 @@ meta <- meta_full %>%
 write_csv(meta, "data/meta_randomeffects_example.csv")
 ```
 
-::: exercise
+:::: exercise
 <i class="fa fa-computer exercise-icon"></i>
 
 <div>
 
-[Here is a spreadsheet](https://docs.google.com/spreadsheets/d/1slskn-AwoscEufYPslzdtWF-JHvtVuyIigIWPhpfsgc/edit?gid=697316395#gid=697316395). 
+[Here is a spreadsheet](https://docs.google.com/spreadsheets/d/1slskn-AwoscEufYPslzdtWF-JHvtVuyIigIWPhpfsgc/edit?gid=697316395#gid=697316395).
 
-1. Download it.
+1.  Download it.
 
-2. Calculate effect sizes using the `escalc()` function from the metafor package.
+2.  Calculate effect sizes using the `escalc()` function from the metafor package.
 
 </div>
-:::
+::::
 
 ```{r}
 #| label: calculate-effect sizes
@@ -695,7 +696,7 @@ modelsummary::modelsummary(meta_regression_model,
                            stars = TRUE)
 ```
 
-::: quiz
+:::: quiz
 <i class="fa fa-question-circle quiz-icon"></i>
 
 <div>
@@ -703,7 +704,7 @@ modelsummary::modelsummary(meta_regression_model,
 How do you interpret this regression table?
 
 </div>
-:::
+::::
 
 ## Publication bias
 
@@ -717,8 +718,8 @@ Do be done. But most importantly, don't compare apples and oranges in your meta-
 
 I've already mentioned it many times throughout this post, but @harrerDoingMetaAnalysisHandsOn2021 is a really great open-access resource. You can [find the book online here](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/).
 
--  Harrer, M., Cuijpers, P., Furukawa, T.A., & Ebert, D.D. (2021). Doing Meta-Analysis with R: A Hands-On Guide. Boca Raton, FL and London: Chapman & Hall/CRC Press. ISBN 978-0-367-61007-4. 
+-   Harrer, M., Cuijpers, P., Furukawa, T.A., & Ebert, D.D. (2021). Doing Meta-Analysis with R: A Hands-On Guide. Boca Raton, FL and London: Chapman & Hall/CRC Press. ISBN 978-0-367-61007-4.
 
 Another recommendation would be [this introductory chapter](https://lakens.github.io/statistical_inferences/) by Daniel Lakens.
 
-- Lakens, D. (2022). Improving Your Statistical Inferences. Retrieved from https://lakens.github.io/statistical_inferences/. https://doi.org/10.5281/zenodo.6409077
+-   Lakens, D. (2022). Improving Your Statistical Inferences. Retrieved from https://lakens.github.io/statistical_inferences/. https://doi.org/10.5281/zenodo.6409077
