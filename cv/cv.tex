@@ -70,6 +70,13 @@
   }
 }
 
+\newcommand{\resumeItemWithYear}[3][ ]{ % First argument is optional
+  \item\small{
+    #2 \hfill {\small #3} \\
+    #1
+  }
+}
+
 \newcommand{\resumeSubheading}[4]{
   \vspace{1pt}\item
     \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
@@ -136,7 +143,7 @@
 \section{Education}
   \resumeSubHeadingListStart
     \resumeSubheading
-      {École Normale Supérieure (ENS-PSL), Institut Jean Nicod}{2022 - Present}
+      {École Normale Supérieure (ENS-PSL), Institut Jean Nicod}{\textit{Expected graduation}: Fall 2025}
       {PhD Psychology}{Paris, France}
             \resumeItemListStart
         \resumeItem{Supervisors: Hugo Mercier \& Kevin Arceneaux}
@@ -147,7 +154,7 @@
       {MA Cognitive Science}{Paris, France}
             \resumeItemListStart
         \resumeItem{Supervisor: Hugo Mercier}            
-        \resumeItem{Thesis: How wise is the crowd -- Can we infer people are accurate and competent \\ merely because they agree with each other?}
+        \resumeItem{Thesis: Can we infer people are accurate and competent merely because they agree with each other?}
       \resumeItemListEnd
     \resumeSubheading
       {Universität Freiburg}{2019 -- 2020}
@@ -186,31 +193,6 @@
 
   \resumeSubHeadingListEnd
 
-%-----------Teaching-----------
-\section{Teaching}
-
-% Intermediate heading for Courses
-\subsection*{Courses}
-    \resumeSubHeadingListStart
-      \resumeProjectHeading
-          {\textbf{Critical thinking and fact checking} $|$ \emph{Université PSL (Paris Sciences \& Lettres)}}{2022 -- Present}
-          \resumeItemListStart
-            \resumeItem{A hands-on introduction to research design for the interdisciplinary BA program \\ "Sciences pour un monde durable"}
-            \resumeItem{Sole instructor \& creator of the course}
-            \resumeItem{30h in-class per semester; one semester a year}
-          \resumeItemListEnd
-    \resumeSubHeadingListEnd
-
-% Intermediate heading for Courses
-\subsection*{Workshops}
-    \resumeSubHeadingListStart
-      \resumeProjectHeading
-          {\textbf{Meta-analysis for beginners}}{}
-          \resumeItemListStart
-            \resumeItem{Laboratoire de Psychologie du Développement et  de l'Éducation de l'Enfant (LaPsyDÉ) \emph{(2h)} $|$ \emph{June 2024}}
-          \resumeItemListEnd
-    \resumeSubHeadingListEnd
-
 %-----------PUBLICATIONS-----------
 \section{Publications}
 
@@ -226,42 +208,97 @@
 \begin{enumerate}[label={[{\arabic*.}]}, left=0.15in]
     \resumeItem{\textbf{Pfänder, J.\footnotemark[1]}, de Courson, B., & Mercier, H. (2025). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? \emph{Cognition, 255, 106005}. \url{https://doi.org/10.1016/j.cognition.2024.106005}
     }
-    \resumeItem{\textbf{Pfänder, J.\footnotemark[1]}, de Courson, B., & Mercier, H. (2024). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? \emph{Proceedings of the Annual Meeting of the Cognitive Science Society, 46(0)}. \url{https://escholarship.org/uc/item/4ms2n8wd}
+    \resumeItem{\textbf{Pfänder, J.\footnotemark[1]}, \& Altay, S. (2024). Spotting False News and Doubting True News: A Meta-Analysis of News Judgments. \url{https://doi.org/10.31219/osf.io/n9h4y} \emph{(Accepted in Nature Human Behaviour)}
     }
     % Add more published publications as needed
 \end{enumerate}
 
-\resumePublicationHeading{Working Papers}
+\resumePublicationHeading{Conference Proceedings}
 \begin{enumerate}[label={[{\arabic*.}]}, left=0.15in, resume]
-    \resumeItem{\textbf{Pfänder, J.\footnotemark[1]}, \& Altay, S. (2024). Spotting False News and Doubting True News: A Meta-Analysis of News Judgments. \url{https://doi.org/10.31219/osf.io/n9h4y} \emph{(Accepted)}
+    \resumeItem{\textbf{Pfänder, J.\footnotemark[1]}, de Courson, B., & Mercier, H. (2024). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? \emph{Proceedings of the Annual Meeting of the Cognitive Science Society, 46(0)}. \url{https://escholarship.org/uc/item/4ms2n8wd}
     }
 
 \end{enumerate}
+
+\resumePublicationHeading{Large collaborations}
+\begin{enumerate}[label={[{\arabic*.}]}, left=0.15in, resume]
+    \resumeItem{Cologna, V., Mede, N. G., Berger, S., Besley, J., Brick, C., Joubert, M., Maibach, E., Mihelj, S., Oreskes, N., Schäfer, M. S., & Linden, D. S. van der., ..., Mercier, H., ..., \textbf{Pfänder, J.}, ... et al. (2024). Trust in scientists and their role in society across 67 countries. \url{https://doi.org/10.31219/osf.io/6ay7s} \emph{(Accepted in Nature Human Behaviour)}
+    }
+    \resumeItem{Mede, N. G., Cologna, V., Berger, S., Besley, J., Brick, C., Joubert, M., Maibach, E., Mihelj, S., Oreskes, N., Schäfer, M. S., & Linden, D. S. van der., ..., Mercier, H., ..., \textbf{Pfänder, J.}, ... et al. (2024). Perceptions of Science, Science Communication, and Climate Change Attitudes in 67 Countries: The TISP Dataset. \url{https://doi.org/10.31234/osf.io/jktsy} \emph{(Accepted in Scientific Data)}
+    }
+
+\end{enumerate}
+
+\resumePublicationHeading{Working Papers}
+\begin{enumerate}[label={[{\arabic*.}]}, left=0.15in, resume]
+    \resumeItem{\textbf{Pfänder, J.\footnotemark[1]}, Kerzreho, L. & Mercier, H. (2024). Quasi-universal acceptance of basic science in the US. \url{https://osf.io/8utsj/} \emph{(Under review)}
+    }
+
+\end{enumerate}
+
 
 %-----------Presentations-----------
 \section{Presentations}
 
 \resumePublicationHeading{Talks}
-\begin{itemize}[left=0.15in]
-    \resumeItem{\textbf{Processus sous-tendant la confiance dans la science} \\ 5ème édition des Rencontres Jeunes Chercheur·euse·s $|$ \emph{Grenoble, June 2024}}
-    \resumeItem{\textbf{Spotting False News and Doubting True News: A Meta-Analysis of News Judgments} \\ EDMO Scientific Conference on Disinformation $|$ \emph{Amsterdam, May 2024}}
-    % Add more posters as needed
-\end{itemize}
+\begin{enumerate}[label={[{\arabic*.}]}, left=0.15in]
+    \resumeItemWithYear{\textbf{Processus sous-tendant la confiance dans la science}}{2024}{\textit{5ème édition des Rencontres Jeunes Chercheur·euse·s, Grenoble}}
+    \resumeItemWithYear{\textbf{Spotting False News and Doubting True News: A Meta-Analysis of News Judgments}}{2024}{\textit{EDMO Scientific Conference on Disinformation, Amsterdam}}
+\end{enumerate}
+
+
 
 \resumePublicationHeading{Posters}
-\begin{itemize}[left=0.15in]
-    \resumeItem{\textbf{How wise is the crowd -- Can we infer people are accurate and competent \\ merely because they agree with each other?} \\ 46th Annual Meeting of the Cognitive Science Society $|$ \emph{Rotterdam, July 2024}}
-    % Add more posters as needed
-\end{itemize}
+\begin{enumerate}[label={[{\arabic*.}]}, left=0.15in, resume]
+    \resumeItemWithYear{\textbf{How wise is the crowd -- Can we infer people are accurate and competent \\ merely because they agree with each other?}}{2024}{\textit{46th Annual Meeting of the Cognitive Science Society, Rotterdam}}
+\end{enumerate}
+
+%-----------Teaching-----------
+\section{Teaching}
+
+% Intermediate heading for Courses
+\subsection*{Courses}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Fact-Checking and Critical Thinking} $|$ \emph{Université PSL (Paris Sciences \& Lettres)}}{2022 -- Present}
+          \resumeItemListStart
+            \resumeItem{A hands-on introduction to research design for the interdisciplinary BA program \\ "Sciences pour un monde durable"}
+            \resumeItem{Sole instructor \& creator of the course}
+            \resumeItem{30h in-class per semester; one semester a year}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+% Intermediate heading for Courses
+\subsection*{Workshops}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Meta-analysis for beginners}}{}
+          \resumeItemListStart
+          \resumeItemWithYear{Laboratoire de Psychologie du Développement et  de l'Éducation de l'Enfant (LaPsyDÉ)}{2024}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+% Intermediate heading for Courses
+\subsection*{Student internship supervision}
+% for subheadings, use:
+% \resumePublicationHeading{E.g. Master students}
+\begin{enumerate}[label={[{\arabic*.}]}, left=0.15in]
+    \resumeItemWithYear{Mateo Pivert, \textit{undergraduate}}{2024}
+    \resumeItemWithYear{Ludivine Million, \textit{undergraduate}}{2024}
+    \resumeItemWithYear{Prune Lefevre Jachimowicz, \textit{undergraduate}}{2024}
+    \resumeItemWithYear{Lou Kerzreho, \textit{graduate}}{2023}
+    \resumeItemWithYear{Kevin Chen, \textit{undergraduate}}{2023}
+    \resumeItemWithYear{Théodore Lellouche, \textit{undergraduate}}{2022}
+\end{enumerate}
 
 %-----------Other-----------
 \section{External Coursework \& Summer Schools}
   \resumeSubHeadingListStart
 
     \resumeSubheading
-      {Diverse Intelligences Summer Institute}{St. Andrews, UK}
+      {Diverse Intelligences Summer Institute}{July 2024}
       {Hosted by the University of St. Andrews and organized by Indiana University Bloomington
-}{July 2024}
+}{St. Andrews, UK}
 
   \resumeSubHeadingListEnd
 

@@ -39,14 +39,14 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Pfänder, J., De Courson, B., & Mercier, H. (2025). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? Cognition, 255, 106005. https://doi.org/10.1016/j.cognition.2024.106005 ( preprint |  code & data)\nPfänder, J., Courson, B. de, & Mercier, H. (2024). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? Proceedings of the Annual Meeting of the Cognitive Science Society, 46(0). https://escholarship.org/uc/item/4ms2n8wd( pdf | poster |  code & data)"
+    "text": "Pfänder, J., De Courson, B., & Mercier, H. (2025). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? Cognition, 255, 106005. https://doi.org/10.1016/j.cognition.2024.106005 ( preprint |  code & data)\nPfänder, J., & Altay, S. (2024). Spotting false news and doubting true news: A meta-analysis of news judgments. https://doi.org/10.31219/osf.io/n9h4y (accepted in Nature Human Behaviour |  preprint |  code & data)"
   },
   {
     "objectID": "research/index.html#working-papers",
     "href": "research/index.html#working-papers",
     "title": "Research",
     "section": "Working papers",
-    "text": "Working papers\n\nPfänder, J., & Altay, S. (2024). Spotting false news and doubting true news: A meta-analysis of news judgments. https://doi.org/10.31219/osf.io/n9h4y ( pdf |  code & data)"
+    "text": "Working papers\n\nKerzreho, L. & Mercier, H. (2024). Quasi-universal acceptance of basic science in the US. https://osf.io/8utsj/"
   },
   {
     "objectID": "about.html",
@@ -67,7 +67,7 @@
     "href": "research/index.html#talks",
     "title": "Research",
     "section": "Talks",
-    "text": "Talks\n\nPfänder, J., & Altay, S. (2024, February 26). Spotting False News and Doubting True News: A Meta-Analysis of News Judgments. EDMO Scientific Conference on Disinformation, Amsterdam. ( slides)"
+    "text": "Talks\n\nPfänder, J. (2024, July). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? 46th Annual Meeting of the Cognitive Science Society, Rotterdam.\nPfänder, J. (2024, June). Processus sous-tendant la confiance dans la science. 5ème édition des Rencontres Jeunes Chercheur·euse·s, Grenoble.\nPfänder, J., & Altay, S. (2024, February 26). Spotting False News and Doubting True News: A Meta-Analysis of News Judgments. EDMO Scientific Conference on Disinformation, Amsterdam. ( slides)"
   },
   {
     "objectID": "blog/2024-06:meta-analysis/index.html",
@@ -201,5 +201,26 @@
     "title": "Learning Ressources",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nthis book is mostly about statistics but uses R for examples↩︎"
+  },
+  {
+    "objectID": "research/index.html#peer-reviewed-publications",
+    "href": "research/index.html#peer-reviewed-publications",
+    "title": "Research",
+    "section": "",
+    "text": "Pfänder, J., De Courson, B., & Mercier, H. (2025). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? Cognition, 255, 106005. https://doi.org/10.1016/j.cognition.2024.106005 ( preprint |  code & data)\nPfänder, J., & Altay, S. (2024). Spotting false news and doubting true news: A meta-analysis of news judgments. https://doi.org/10.31219/osf.io/n9h4y (accepted in Nature Human Behaviour |  preprint |  code & data)"
+  },
+  {
+    "objectID": "research/index.html#large-collaborations",
+    "href": "research/index.html#large-collaborations",
+    "title": "Research",
+    "section": "Large Collaborations",
+    "text": "Large Collaborations\n\nCologna, V., Mede, N. G., Berger, S., Besley, J., Brick, C., Joubert, M., Maibach, E., Mihelj, S., Oreskes, N., Schäfer, M. S., & Linden, D. S. van der (2024). Trust in scientists and their role in society across 67 countries. https://doi.org/10.31219/osf.io/6ay7s (accepted in Nature Human Behaviour |  preprint)\nMede, N. G., Cologna, V., Berger, S., Besley, J., Brick, C., Joubert, M., Maibach, E., Mihelj, S., Oreskes, N., Schäfer, M. S., & Linden, D. S. van der (2024). Perceptions of science, science communication, and climate change attitudes in 67 countries: The TISP dataset. https://doi.org/10.31234/osf.io/jktsy (accepted in Scientific Data |  preprint)"
+  },
+  {
+    "objectID": "research/index.html#conference-proceedings",
+    "href": "research/index.html#conference-proceedings",
+    "title": "Research",
+    "section": "Conference Proceedings",
+    "text": "Conference Proceedings\n\nPfänder, J., Courson, B. de, & Mercier, H. (2024). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? Proceedings of the Annual Meeting of the Cognitive Science Society, 46(0). https://escholarship.org/uc/item/4ms2n8wd( pdf | poster |  code & data)"
   }
 ]
