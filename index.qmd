@@ -9,9 +9,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/janpfander
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/janpfaender
+    - text: <i class="fa-brands fa-bluesky"></i> Bluesky
+      href: https://bsky.app/profile/janpfa.bsky.social
     - icon: envelope
       text: Email
       href: "mailto:janlukas.pfaender@gmail.com"  

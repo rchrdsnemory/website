@@ -23,12 +23,11 @@ website:
         
     # your social media handles
     right:
-      - icon: github
+      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
         href: https://github.com/janpfa
-      - icon: twitter
-        href: https://twitter.com/janpfaender
-      - icon: envelope
-        aria-label: email
+      - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
+        href: https://bsky.app/profile/janpfa.bsky.social
+      - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
         href: "mailto:janlukas.pfaender@gmail.com" 
         
   page-footer: 
