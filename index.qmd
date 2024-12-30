@@ -19,9 +19,7 @@ about:
 
 # Hi!
 
-I am Jan, a PhD student trying to understand why people trust in science, and why sometimes they don't.
-
-I care about this, because trust in science can literally be a question of life and death, for example when it comes to vaccines during pandemics.
+I am Jan, a PhD student working on misinformation and trust in science.
 
 More broadly, I'm interested in how people evaluate information, and what drives people to develop and propagate explanations about the world, including science, but also conspiracy theories, religion, or political ideology.
 
