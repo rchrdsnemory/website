@@ -33,4 +33,4 @@ citations-hover: false
 
 -   Pfänder, J. (2024, June). *Processus sous-tendant la confiance dans la science.* 5ème édition des Rencontres Jeunes Chercheur·euse·s, Grenoble.
 
--   Pfänder, J., & Altay, S. (2024, February 26). *Spotting False News and Doubting True News: A Meta-Analysis of News Judgments.* EDMO Scientific Conference on Disinformation, Amsterdam. ([<i class="fas fa-desktop"></i> slides](talks/amsterdam_2024.pdf))
+-   Pfänder, J., & Altay, S. (2024, February). *Spotting False News and Doubting True News: A Meta-Analysis of News Judgments.* EDMO Scientific Conference on Disinformation, Amsterdam. ([<i class="fas fa-desktop"></i> slides](talks/amsterdam_2024.pdf))
