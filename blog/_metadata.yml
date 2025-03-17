@@ -17,8 +17,6 @@ toc: true
 toc-title: Contents
 toc-location: left
 
-freeze: auto
-
 # Default knitr options
 execute:
   echo: true
