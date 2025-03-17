@@ -7,48 +7,6 @@
     "text": "Learning Ressources\n\n\n\n\n\n\nR stats\n\n\n\nAn overview of a couple of freely available online ressources to learn the basics of R and git\n\n\n\n\n\nNov 17, 2024\n\n\nJan Pfänder\n\n\n\n\n\n\n\n\n\n\n\n\nTracked changes for revisions\n\n\n\n\n\n\nrevisions\n\n\ntracked changes\n\n\npublishing\n\n\n\nA quick workflow on how to track changes during revisions\n\n\n\n\n\nSep 11, 2024\n\n\nJan Pfänder\n\n\n\n\n\n\n\n\n\n\n\n\nMeta analysis for absolute beginners\n\n\n\n\n\n\nmeta-analysis\n\n\nstats\n\n\nsystematic review\n\n\n\nA hands-on introduction to the tip of the pyramid of evidence\n\n\n\n\n\nJun 25, 2024\n\n\nJan Pfänder\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/2024-09_tracked-changes/index.html",
-    "href": "blog/2024-09_tracked-changes/index.html",
-    "title": "Tracked changes for revisions",
-    "section": "",
-    "text": "During revisions, reviewers as us to make changes to your initially submitted manuscript. For reviewers to see what exactly you’ve changed in the manuscript, it is nice to have a version with tracked changes of your revised manuscript (kind of like the correction mode in Word). Luckily, there are tools available to make this very easy. I’ll quickly describe my workflow below."
-  },
-  {
-    "objectID": "blog/2024-09_tracked-changes/index.html#generating-a-manuscript-with-papaja",
-    "href": "blog/2024-09_tracked-changes/index.html#generating-a-manuscript-with-papaja",
-    "title": "Tracked changes for revisions",
-    "section": "Generating a manuscript with Papaja",
-    "text": "Generating a manuscript with Papaja\nI tend to write manuscripts in RMarkdown, using the Papaja package. Render the .Rmd file to .pdf produces a .tex version. When first submitting the manuscript to a journal, I save the this .tex file and call it something like initial_submission.tex."
-  },
-  {
-    "objectID": "blog/2024-09_tracked-changes/index.html#making-changes-requested-by-reviewers",
-    "href": "blog/2024-09_tracked-changes/index.html#making-changes-requested-by-reviewers",
-    "title": "Tracked changes for revisions",
-    "section": "Making changes requested by reviewers",
-    "text": "Making changes requested by reviewers\nAfter reviewers provided their feedback (fingers crossed it’s positive and did not lead to a rejection), I make all sort of changes to the paper, i.e. the original Rmd file. Once I’m done, I’ll render the file to .pdf again, in order to send back the revised manuscript. I’ll call the .tex file that comes along with it revised.tex."
-  },
-  {
-    "objectID": "blog/2024-09_tracked-changes/index.html#tracking-changes",
-    "href": "blog/2024-09_tracked-changes/index.html#tracking-changes",
-    "title": "Tracked changes for revisions",
-    "section": "Tracking changes",
-    "text": "Tracking changes\nIn addition to my revised manuscript, I like to send reviewers a version where all the changes are immediately visible. To do so, I use the online Latex Diff Tool. All I need to do is copy-paste the content of my initial_submission.tex and my revised.tex file in the respective boxes. The tool then generates a version that highlights the changes. All I have to do is copy-paste that version into an empty .tex file and render it to .pdf. I always use Overleaf for that."
-  },
-  {
-    "objectID": "blog/2024-11_learning-R/index.html",
-    "href": "blog/2024-11_learning-R/index.html",
-    "title": "Learning Ressources",
-    "section": "",
-    "text": "There are plenty of free online resources to help learn R and git. Here is a quick collection of some that I came across."
-  },
-  {
-    "objectID": "blog/2024-11_learning-R/index.html#footnotes",
-    "href": "blog/2024-11_learning-R/index.html#footnotes",
-    "title": "Learning Ressources",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nthis book is mostly about statistics but uses R for examples↩︎"
-  },
-  {
     "objectID": "blog/2024-06_meta-analysis/index.html",
     "href": "blog/2024-06_meta-analysis/index.html",
     "title": "Meta analysis for absolute beginners",
@@ -117,5 +75,103 @@
     "title": "Meta analysis for absolute beginners",
     "section": "Footnotes",
     "text": "Footnotes\n\n\noften researchers use a z-transformed version of a correlation coefficient↩︎\nthese are part of in-(or ex-)clusion criteria, but let’s leave that for later↩︎\nOn scopus, you can additionally save your search history and results by making an account.↩︎\nThere are ways to quantify the agreement between raters (e.g. Cohen’s kappa), but we don’t bother much about that here.↩︎\nor exclusion, depending on how you want to frame it↩︎"
+  },
+  {
+    "objectID": "blog/2024-11_learning-R/index.html",
+    "href": "blog/2024-11_learning-R/index.html",
+    "title": "Learning Ressources",
+    "section": "",
+    "text": "There are plenty of free online resources to help learn R and git. Here is a quick collection of some that I came across."
+  },
+  {
+    "objectID": "blog/2024-11_learning-R/index.html#footnotes",
+    "href": "blog/2024-11_learning-R/index.html#footnotes",
+    "title": "Learning Ressources",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nthis book is mostly about statistics but uses R for examples↩︎"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Pfänder, J., & Altay, S. (2025). Spotting false news and doubting true news: a systematic review and meta-analysis of news judgements. Nature Human Behaviour, 1–12. https://doi.org/10.1038/s41562-024-02086-1 ( preprint |  code & data)\nPfänder, J., De Courson, B., & Mercier, H. (2025). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? Cognition, 255, 106005. https://doi.org/10.1016/j.cognition.2024.106005 ( preprint |  code & data)"
+  },
+  {
+    "objectID": "research/index.html#peer-reviewed-publications",
+    "href": "research/index.html#peer-reviewed-publications",
+    "title": "Research",
+    "section": "",
+    "text": "Pfänder, J., & Altay, S. (2025). Spotting false news and doubting true news: a systematic review and meta-analysis of news judgements. Nature Human Behaviour, 1–12. https://doi.org/10.1038/s41562-024-02086-1 ( preprint |  code & data)\nPfänder, J., De Courson, B., & Mercier, H. (2025). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? Cognition, 255, 106005. https://doi.org/10.1016/j.cognition.2024.106005 ( preprint |  code & data)"
+  },
+  {
+    "objectID": "research/index.html#large-collaborations",
+    "href": "research/index.html#large-collaborations",
+    "title": "Research",
+    "section": "Large Collaborations",
+    "text": "Large Collaborations\n\nCologna, V., Mede, N. G., Berger, S., Besley, J., Brick, C., Joubert, M., Maibach, E. W., Mihelj, S., Oreskes, N., Schäfer, M. S., Linden, S. van der, Abdul Aziz, N. I., Abdulsalam, S., Shamsi, N. A., Aczel, B., Adinugroho, I., Alabrese, E., Aldoh, A., Alfano, M., … Zwaan, R. A. (2025). Trust in scientists and their role in society across 68 countries. Nature Human Behaviour, 1–18. https://doi.org/10.1038/s41562-024-02090-5 ( preprint)\nMede, N. G., Cologna, V., Berger, S., Besley, J., Brick, C., Joubert, M., Maibach, E. W., Mihelj, S., Oreskes, N., Schäfer, M. S., Van Der Linden, S., Abdul Aziz, N. I., Abdulsalam, S., Shamsi, N. A., Aczel, B., Adinugroho, I., Alabrese, E., Aldoh, A., Alfano, M., … Zwaan, R. A. (2025). Perceptions of science, science communication, and climate change attitudes in 68 countries  the TISP dataset. Scientific Data, 12(1), 114. https://doi.org/10.1038/s41597-024-04100-7 ( preprint)"
+  },
+  {
+    "objectID": "research/index.html#conference-proceedings",
+    "href": "research/index.html#conference-proceedings",
+    "title": "Research",
+    "section": "Conference Proceedings",
+    "text": "Conference Proceedings\n\nPfänder, J., Courson, B. de, & Mercier, H. (2024). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? Proceedings of the Annual Meeting of the Cognitive Science Society, 46(0). https://escholarship.org/uc/item/4ms2n8wd( pdf | poster |  code & data)"
+  },
+  {
+    "objectID": "research/index.html#working-papers",
+    "href": "research/index.html#working-papers",
+    "title": "Research",
+    "section": "Working papers",
+    "text": "Working papers\n\nPfänder, J., Kerzreho, L., & Mercier, H. (2024). Quasi-universal acceptance of basic science in the US. https://doi.org/10.31219/osf.io/qc43v"
+  },
+  {
+    "objectID": "research/index.html#talks",
+    "href": "research/index.html#talks",
+    "title": "Research",
+    "section": "Talks",
+    "text": "Talks\n\nPfänder, J. (2024, July). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? 46th Annual Meeting of the Cognitive Science Society, Rotterdam.\nPfänder, J. (2024, June). Processus sous-tendant la confiance dans la science. 5ème édition des Rencontres Jeunes Chercheur·euse·s, Grenoble.\nPfänder, J., & Altay, S. (2024, February). Spotting False News and Doubting True News: A Meta-Analysis of News Judgments. EDMO Scientific Conference on Disinformation, Amsterdam. ( slides)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi!",
+    "section": "",
+    "text": "Hi!\nI am Jan, a PhD student working on misinformation and trust in science.\nMore broadly, I’m interested in how people evaluate information, and what drives people to develop and propagate explanations about the world, including science, but also conspiracy theories, religion, or political ideology.\nI’m supervised by Hugo Mercier, and I am part of the Evolution and Social Cognition team."
+  },
+  {
+    "objectID": "blog/2024-09_tracked-changes/index.html",
+    "href": "blog/2024-09_tracked-changes/index.html",
+    "title": "Tracked changes for revisions",
+    "section": "",
+    "text": "During revisions, reviewers as us to make changes to your initially submitted manuscript. For reviewers to see what exactly you’ve changed in the manuscript, it is nice to have a version with tracked changes of your revised manuscript (kind of like the correction mode in Word). Luckily, there are tools available to make this very easy. I’ll quickly describe my workflow below."
+  },
+  {
+    "objectID": "blog/2024-09_tracked-changes/index.html#generating-a-manuscript-with-papaja",
+    "href": "blog/2024-09_tracked-changes/index.html#generating-a-manuscript-with-papaja",
+    "title": "Tracked changes for revisions",
+    "section": "Generating a manuscript with Papaja",
+    "text": "Generating a manuscript with Papaja\nI tend to write manuscripts in RMarkdown, using the Papaja package. Render the .Rmd file to .pdf produces a .tex version. When first submitting the manuscript to a journal, I save the this .tex file and call it something like initial_submission.tex."
+  },
+  {
+    "objectID": "blog/2024-09_tracked-changes/index.html#making-changes-requested-by-reviewers",
+    "href": "blog/2024-09_tracked-changes/index.html#making-changes-requested-by-reviewers",
+    "title": "Tracked changes for revisions",
+    "section": "Making changes requested by reviewers",
+    "text": "Making changes requested by reviewers\nAfter reviewers provided their feedback (fingers crossed it’s positive and did not lead to a rejection), I make all sort of changes to the paper, i.e. the original Rmd file. Once I’m done, I’ll render the file to .pdf again, in order to send back the revised manuscript. I’ll call the .tex file that comes along with it revised.tex."
+  },
+  {
+    "objectID": "blog/2024-09_tracked-changes/index.html#tracking-changes",
+    "href": "blog/2024-09_tracked-changes/index.html#tracking-changes",
+    "title": "Tracked changes for revisions",
+    "section": "Tracking changes",
+    "text": "Tracking changes\nIn addition to my revised manuscript, I like to send reviewers a version where all the changes are immediately visible. To do so, I use the online Latex Diff Tool. All I need to do is copy-paste the content of my initial_submission.tex and my revised.tex file in the respective boxes. The tool then generates a version that highlights the changes. All I have to do is copy-paste that version into an empty .tex file and render it to .pdf. I always use Overleaf for that."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Jan Pfänder",
+    "section": "",
+    "text": "Download current CV"
   }
 ]
