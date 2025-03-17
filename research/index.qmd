@@ -23,7 +23,7 @@ citations-hover: false
 
 -   @pfanderHowWiseCrowd2024([<i class="fas fa-file-pdf"></i> pdf](pdfs/how_wise_is_crowd.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>poster](talks/cogsci_2024.pdf) \| [<i class="fab fa-github"></i> code & data](https://github.com/janpfander/consensus_trust.git))
 
-## Working papers
+## Preprints
 
 -   @pfanderQuasiuniversalAcceptanceBasic2024
 
