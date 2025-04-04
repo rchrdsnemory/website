@@ -26,6 +26,7 @@ citations-hover: false
 ## Working papers
 
 -   @pfanderQuasiuniversalAcceptanceBasic2024
+-   @pfanderTrustingForgettingImpressive2025
 
 ## Talks
 
