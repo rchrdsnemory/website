@@ -7,6 +7,13 @@
     "text": "Learning Ressources\n\n\n\n\n\n\nR stats\n\n\n\nAn overview of a couple of freely available online ressources to learn the basics of R and git\n\n\n\n\n\nNov 17, 2024\n\n\nJan Pfänder\n\n\n\n\n\n\n\n\n\n\n\n\nTracked changes for revisions\n\n\n\n\n\n\nrevisions\n\n\ntracked changes\n\n\npublishing\n\n\n\nA quick workflow on how to track changes during revisions\n\n\n\n\n\nSep 11, 2024\n\n\nJan Pfänder\n\n\n\n\n\n\n\n\n\n\n\n\nMeta analysis for absolute beginners\n\n\n\n\n\n\nmeta-analysis\n\n\nstats\n\n\nsystematic review\n\n\n\nA hands-on introduction to the tip of the pyramid of evidence\n\n\n\n\n\nJun 25, 2024\n\n\nJan Pfänder\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "teaching/research_design/index.html",
+    "href": "teaching/research_design/index.html",
+    "title": "Epistémologie et Esprit Critique (or, Introduction to research design)",
+    "section": "",
+    "text": "go to course website\nIn science, but also in politics, in court, in airport-bestsellers, or at your lunch table, claims are made based on data and science. In this course, you will learn to think critically about data, and whether it actually supports the claim it is meant to.\nThis class is hands-on, meaning that you will learn how to design a study, organize a project, analyze data, present results and read scientific literature. To understand basic concepts in statistics, you will learn how to simulate data R.\nThe class is structured into four main blocks.\n1. Data Analysis - You will develop the competences to understand and analyze data\n2. Statistics - You will learn basic statistical concepts.\n3. Causal Inference - You will get an understanding of how different research designs do or do not permit causal claims.\n4. Science - You will get an idea of how science works, including how evidence accumulates and how scientific publishing works"
+  },
+  {
     "objectID": "blog/2024-06_meta-analysis/index.html",
     "href": "blog/2024-06_meta-analysis/index.html",
     "title": "Meta analysis for absolute beginners",
@@ -166,6 +173,13 @@
     "title": "Tracked changes for revisions",
     "section": "Tracking changes",
     "text": "Tracking changes\nIn addition to my revised manuscript, I like to send reviewers a version where all the changes are immediately visible. To do so, I use the online Latex Diff Tool. All I need to do is copy-paste the content of my initial_submission.tex and my revised.tex file in the respective boxes. The tool then generates a version that highlights the changes. All I have to do is copy-paste that version into an empty .tex file and render it to .pdf. I always use Overleaf for that."
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Epistémologie et Esprit Critique (or, Introduction to research design)\n\n\n\nresearch design\n\n\nstatistics\n\n\nsimulation\n\n\nR\n\n\nggplot\n\n\n\nA hands-on introduction to research_design for students of the Sciences Pour un Monde Durable (SMD) undergraduate program at Paris Sciences et Lettres (PSL) University\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv/index.html",
