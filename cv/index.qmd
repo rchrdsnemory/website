@@ -1,7 +1,7 @@
 ---
 engine: knitr
 freeze: false
-resume:
+cv:
   pdf: "25.07.15_RichardsonR_resume.pdf"
 ---
 
