@@ -1,8 +1,8 @@
 ---
 engine: knitr
 freeze: false
-cv:
-  pdf: "cv.pdf"
+resume:
+  pdf: "25.07.15_RichardsonR_resume.pdf"
 ---
 
 ```{css, echo=FALSE}
