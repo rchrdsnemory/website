@@ -6,8 +6,8 @@ freeze: auto
 
 # website settings
 website:
-  title: "Jan Pfänder"                                # Your name
-  image: images/profile.jpg
+  title: "Emory Richardson"                                # Your name
+  image: images/profile.png
   
   
   # start of the navigation bar at the top of the website
@@ -15,30 +15,28 @@ website:
     pinned: true
     # your sub-pages
     left:
-      - text: "Research"
+      - text: "Publications"
         href: research/index.qmd
-      - text: "Teaching"
-        href: teaching/index.qmd
       - text: "Blog"
         href: blog.qmd  
-      - text: "CV"
+      - text: "Resume"
         href: cv/index.qmd
         
     # your social media handles
     right:
       - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
-        href: https://github.com/janpfander
+        href: https://github.com/rchrdsnemory
       - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
-        href: https://bsky.app/profile/janpfa.bsky.social
+        href: https://bsky.app/profile/emoryrchrdsn.bsky.social
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
-        href: "mailto:janlukas.pfaender@gmail.com" 
+        href: "mailto:rchrdsn.emory@gmail.com" 
         
   page-footer: 
     background: light
     left: |
-      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Jan Pfänder</span>
-    center: |
-      <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
+      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Emory Richardson</span>
+    # center: |
+    #   <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
     right: |
       <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>, 
       <span class="faux-block">[View the source at {{< fa brands github >}} GitHub]({{< var github-url >}})</span>
