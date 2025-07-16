@@ -4,22 +4,28 @@ about:
   template: trestles
   image-shape: round
   image-width: 15em
-  image: "images/profile.jpeg"
+  image: "images/profile.png"
   links:
     - icon: github
       text: Github
-      href: https://github.com/janpfander
+      href: https://github.com/rchrdsnemory
     - text: <i class="fa-brands fa-bluesky"></i> Bluesky
-      href: https://bsky.app/profile/janpfa.bsky.social
+      href: https://bsky.app/profile/emoryrchrdsn.bsky.social
     - icon: envelope
       text: Email
-      href: "mailto:janlukas.pfaender@gmail.com"  
+      href: "mailto:rchrdsn.emory@gmail.com"  
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/emory-richardson/
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/emory_rchrdsn
+
 ---
 
-# Hi!
+Hi! I'm an applied data scientist. I build experiments and statistical models to find the difference-that-makes-a-difference in behavior, beliefs, and decisons.
 
-I am Jan, a PhD student working on misinformation and trust in science.
+Things I get excited about: data, puzzles, theory, statistical methods, good writing, philosophy of science, social network topologies & their influence on cumulative culture, learning strategies based on conformity / Condorcet methods / “the wisdom of crowds”, the spread of (mis)information, languages, and funky bass. Also kettlebells.
 
-More broadly, I'm interested in how people evaluate information, and what drives people to develop and propagate explanations about the world, including science, but also conspiracy theories, religion, or political ideology.
+past: postdoc @ UMich | PhD @Yale | MAPSS @UChicago | RPCV @ US Peace Corps | Philsophy & History of Science @stjohnscollege
 
-I'm supervised by [Hugo Mercier](https://sites.google.com/site/hugomercier/), and I am part of the [Evolution and Social Cognition team](https://esc.dec.ens.fr/en/evolution-and-social-cognition-members-10877).
