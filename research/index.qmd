@@ -9,15 +9,15 @@ citations-hover: false
 
 ## Peer reviewed publications
 
--   @HerdingCats2025 ([<i class="fas fa-file-pdf"></i> PDF](research/pdfs/RichardsonEtAl_2025_HerdingCats.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/d7szc/files/osfstorage))
+-   @HerdingCats2025 ([<i class="fas fa-file-pdf"></i> PDF](/pdfs/RichardsonEtAl_2025_HerdingCats.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/d7szc/files/osfstorage))
 
--   @Viruses2024 ([<i class="fas fa-file-pdf"></i> PDF](research/pdfs/MenendezRichardsonEtAl_2024_Viruses.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/h4c26/files/osfstorage))
+-   @Viruses2024 ([<i class="fas fa-file-pdf"></i> PDF](/pdfs/MenendezRichardsonEtAl_2024_Viruses.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/h4c26/files/osfstorage))
 
--   @GroupsCrowds2022 ([<i class="fas fa-file-pdf"></i> PDF](research/pdfs/RichardsonKeil_2022_EffectiveReasoning.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/6pw5n/files/osfstorage))
+-   @GroupsCrowds2022 ([<i class="fas fa-file-pdf"></i> PDF](/pdfs/RichardsonKeil_2022_EffectiveReasoning.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/6pw5n/files/osfstorage))
 
--   @ThinkingTakesTime2022 ([<i class="fas fa-file-pdf"></i> PDF](research/pdfs/RichardsonKeil_2022_ThinkingTakesTime.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/z6ykt/files/osfstorage))
+-   @ThinkingTakesTime2022 ([<i class="fas fa-file-pdf"></i> PDF](/pdfs/RichardsonKeil_2022_ThinkingTakesTime.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/z6ykt/files/osfstorage))
 
--   @Scaffolding2021 ([<i class="fas fa-file-pdf"></i> PDF](research/pdfs/RichardsonEtAl_2021_Scaffolding.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/epk4b/files/osfstorage))
+-   @Scaffolding2021 ([<i class="fas fa-file-pdf"></i> PDF](/pdfs/RichardsonEtAl_2021_Scaffolding.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/epk4b/files/osfstorage))
 
 ## Large Collaborations
 
