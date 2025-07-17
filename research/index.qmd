@@ -19,21 +19,16 @@ citations-hover: false
 
 -   @Scaffolding2021 ([<i class="fas fa-file-pdf"></i> PDF](/pdfs/RichardsonEtAl_2021_Scaffolding.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/epk4b/files/osfstorage))
 
-## Large Collaborations
-
--   @colognaTrustScientistsTheir2025 ([<i class="fas fa-file-pdf"></i> preprint](https://doi.org/10.31219/osf.io/6ay7s))
-
--   @medePerceptionsScienceScience2025 ([<i class="fas fa-file-pdf"></i> preprint](https://doi.org/10.31234/osf.io/jktsy))
-
-## Conference Proceedings
-
--   @pfanderHowWiseCrowd2024([<i class="fas fa-file-pdf"></i> pdf](pdfs/how_wise_is_crowd.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>poster](talks/cogsci_2024.pdf) \| [<i class="fab fa-github"></i> code & data](https://github.com/janpfander/consensus_trust.git))
-
 ## Working papers
 
 -   @pfanderQuasiuniversalAcceptanceBasic2024 (*submitted*)
 -   @pfanderTrustingForgettingImpressive2025 (*submitted*)
 -   @pfanderFrenchTrustMore2025
+
+## Conference Proceedings
+
+-   @pfanderHowWiseCrowd2024([<i class="fas fa-file-pdf"></i> pdf](pdfs/how_wise_is_crowd.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>poster](talks/cogsci_2024.pdf) \| [<i class="fab fa-github"></i> code & data](https://github.com/janpfander/consensus_trust.git))
+
 
 ## Talks
 
