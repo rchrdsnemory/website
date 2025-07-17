@@ -19,11 +19,13 @@ citations-hover: false
 
 -   @Scaffolding2021 ([<i class="fas fa-file-pdf"></i> PDF](/pdfs/RichardsonEtAl_2021_Scaffolding.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/epk4b/files/osfstorage))
 
+<!--
 ## Working papers
 
--   @pfanderQuasiuniversalAcceptanceBasic2024 (*submitted*)
--   @pfanderTrustingForgettingImpressive2025 (*submitted*)
--   @pfanderFrenchTrustMore2025
+- @pfanderQuasiuniversalAcceptanceBasic2024 (*submitted*)
+- @pfanderTrustingForgettingImpressive2025 (*submitted*)
+- @pfanderFrenchTrustMore2025
+-->
 
 ## Conference Proceedings
 
