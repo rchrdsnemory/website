@@ -27,5 +27,10 @@ Hi! I'm an applied data scientist. I build experiments and statistical models to
 
 Things I get excited about: data, puzzles, theory, statistical methods, good writing, philosophy of science, social network topologies & their influence on cumulative culture, learning strategies based on conformity / Condorcet methods / “the wisdom of crowds”, the spread of (mis)information, languages, and funky bass. Also kettlebells.
 
-past: postdoc @ UMich | PhD @Yale | MAPSS @UChicago | RPCV @ US Peace Corps | Philsophy & History of Science @stjohnscollege
+past: 
+postdoc @ UMich
+PhD @Yale
+MAPSS @UChicago
+RPCV @ US Peace Corps
+Philosophy & History of Science @stjohnscollege
 
