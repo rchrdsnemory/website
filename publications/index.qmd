@@ -31,19 +31,24 @@ citations-hover: false
 
 ## Conference Proceedings
 
--   @pfanderHowWiseCrowd2024([<i class="fas fa-file-pdf"></i> pdf](pdfs/how_wise_is_crowd.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>poster](talks/cogsci_2024.pdf) \| [<i class="fab fa-github"></i> code & data](https://github.com/janpfander/consensus_trust.git))
+-   @cogsci2023HerdingCats([<i class="fas fa-file-pdf"></i> pdf](pdfs/confpaper_RichardsonEtAl2023_HerdingCats.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>SPP Poster](pdfs/poster_socphilpsych2022_HerdingCats.pdf) 
+-   @cogsci2023AgendaSetting([<i class="fas fa-file-pdf"></i> pdf](pdfs/confpaper_RichardsonEtAl2023_AgendaSetting.pdf) 
+-   @cogsci2022AngryChildren([<i class="fas fa-file-pdf"></i> pdf](pdfs/confpaper_RichardsonKeil2022_AngerChildren.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>cogsci poster](pdfs/poster_cogsci2022_AngryChildren.pdf) 
+-   @cogsci2022KnowYourNetwork([<i class="fas fa-file-pdf"></i> pdf](pdfs/confpaper_RichardsonEtAl2022_KnowYourNetwork.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>cogsci poster](pdfs/poster_cogsci2022_KnowYourNetwork.pdf) 
+-   @cogsci2021AngryRhetoric([<i class="fas fa-file-pdf"></i> pdf](pdfs/confpaper_RichardsonKeil2021_AngryRhetoric.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>cogsci poster](pdfs/poster_cogsci2021_AngryRhetoric.pdf) 
+-   @cogsci2020InfoIndependence([<i class="fas fa-file-pdf"></i> pdf](pdfs/confpaper_RichardsonKeil2020_InfoIndependence.pdf) 
+-   @cogsci2020ThinkingTakesTime([<i class="fas fa-file-pdf"></i> pdf](pdfs/confpaper_RichardsonEtAl2020_ResponseTimes.pdf) 
+-   @cosci2019RiskImpliesKnowledge([<i class="fas fa-file-pdf"></i> pdf](pdfs/confpaper_RichardsonJaraEttinger2019_RiskImpliesKnowledge.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>cogsci poster](pdfs/poster_cogsci2019_RiskImpliesKnowledge.pdf)
 
 
-## Talks
+<!--
+## Talks & Presentations
 
--   Pfänder, J., & Mercier, H. (2025, March). *Trust in science*. Paris School of International Affairs (Sciences Po), Paris.
-
--   Pfänder, J., & Altay, S. (2025, March). *Spotting False News and Doubting True News. A Meta-Analysis of News Judgments*. Infox sur seine, Paris.
-
--   Pfänder, J. (2024, July). *How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other?* 46th Annual Meeting of the Cognitive Science Society, Rotterdam.
-
--   Pfänder, J. (2024, June). *Processus sous-tendant la confiance dans la science.* 5ème édition des Rencontres Jeunes Chercheur·euse·s, Grenoble.
-
--   Pfänder, J., & Altay, S. (2024, February). *Spotting False News and Doubting True News: A Meta-Analysis of News Judgments.* EDMO Scientific Conference on Disinformation, Amsterdam.
+-   Richardson, E., Hok, H., Shaw, A., & Keil, F.C. (2023, October). *Good Timing: what can children’s reasoning about time costs tell us about social cognition?*. Psychology Department Lecture Series, University of Michigan.
+-   Richardson, E., Hok, H., Shaw, A., & Keil, F.C. (2023, November). *Good Timing: managing speed-accuracy tradeoffs in collective decision-making*. Weinberg Institute for Cognitive Science Lecture Series, University of Michigan.
+-   Richardson, E., Davis, I.M., & Keil, F.C. (2023, June). *Identifying agenda setters in sequential testimony*. Society for Philosophy & Psychology Annual Meeting, University of Pittsburgh.
+-   Richardson, E., Hok, H., Shaw, A., & Keil, F.C. (2023, May). *Reasoning about time costs in collaborative learning*. MPRG iSearch Lab Meeting, Max Planck Institute for Human Development.
+-   Richardson, E., Hok, H., Shaw, A., & Keil, F.C. (2022, July). *Herding Cats*. Society for Philosophy & Psychology Annual Meeting, University of Milan.
+-->
 
 

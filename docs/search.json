@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Learning Ressources\n\n\n\n\n\n\nR stats\n\n\n\nAn overview of a couple of freely available online ressources to learn the basics of R and git\n\n\n\n\n\nNov 17, 2024\n\n\nJan Pfänder\n\n\n\n\n\n\n\n\n\n\n\n\nTracked changes for revisions\n\n\n\n\n\n\nrevisions\n\n\ntracked changes\n\n\npublishing\n\n\n\nA quick workflow on how to track changes during revisions\n\n\n\n\n\nSep 11, 2024\n\n\nJan Pfänder\n\n\n\n\n\n\n\n\n\n\n\n\nMeta analysis for absolute beginners\n\n\n\n\n\n\nmeta-analysis\n\n\nstats\n\n\nsystematic review\n\n\n\nA hands-on introduction to the tip of the pyramid of evidence\n\n\n\n\n\nJun 25, 2024\n\n\nJan Pfänder\n\n\n\n\n\n\nNo matching items"
+    "text": "Learning Ressources\n\n\n\nR stats\n\n\n\nAn overview of a couple of freely available online ressources to learn the basics of R and git\n\n\n\n\n\nNov 17, 2024\n\n\nJan Pfänder\n\n\n\n\n\n\n\n\n\n\n\n\nTracked changes for revisions\n\n\n\nrevisions\n\ntracked changes\n\npublishing\n\n\n\nA quick workflow on how to track changes during revisions\n\n\n\n\n\nSep 11, 2024\n\n\nJan Pfänder\n\n\n\n\n\n\n\n\n\n\n\n\nMeta analysis for absolute beginners\n\n\n\nmeta-analysis\n\nstats\n\nsystematic review\n\n\n\nA hands-on introduction to the tip of the pyramid of evidence\n\n\n\n\n\nJun 25, 2024\n\n\nJan Pfänder\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching/research_design/index.html",
@@ -102,14 +102,14 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Pfänder, J., & Altay, S. (2025). Spotting false news and doubting true news: a systematic review and meta-analysis of news judgements. Nature Human Behaviour, 1–12. https://doi.org/10.1038/s41562-024-02086-1 ( preprint |  code & data)\nPfänder, J., De Courson, B., & Mercier, H. (2025). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? Cognition, 255, 106005. https://doi.org/10.1016/j.cognition.2024.106005 ( preprint |  code & data)"
+    "text": "Richardson, E., Davis, M., Isaac, & Keil, F. (2025). Agenda setting and the emperor’s new clothes: People diagnose information cascades during sequential testimony by reasoning about informants’ speaking order and social status. Open Mind. https://doi.org/10.31234/osf.io/vkgz5 ( PDF |  code & data)\nRichardson, E., Hok, H., Shaw, A., & Keil, F. (2025). Herding cats: Children and adults infer collective decision speed from team size and diversity, but disagree about whether consensus strength matters more than team size. Cognition, 263, 106211. https://doi.org/10.1016/j.cognition.2025.106211 ( Manuscript |  code & data)\nMenendez, D., Richardson, E., McNeil, K., & Gelman, S. (2024). Discovering the world of viruses: Testing the influence of anthropomorphic representations on children’s learning about COVID-19. Developmental Psychology, 61, 513–529. https://doi.org/10.1037/dev0001882 ( PDF |  code & data)\nRichardson, E., & Keil, F. (2022). The potential for effective reasoning guides children’s preference for small group discussion over crowdsourcing. Scientific Reports, 12, 1193. https://doi.org/10.1038/s41598-021-04680-z ( PDF |  code & data)\nRichardson, E., & Keil, F. (2022). Thinking takes time: Children use agents’ response times to infer the source, quality, and complexity of their knowledge. Cognition, 224. https://doi.org/10.1016/j.cognition.2022.105073 ( PDF |  code & data)\nRichardson, E., Sheskin, M., & Keil, F. (2021). An illusion of self‐sufficiency for learning about artifacts in scaffolded learners, but not observers. Child Development, 92, 1523–1538. https://doi.org/https://doi.org/10.1111/cdev.13506 ( PDF |  code & data)"
   },
   {
     "objectID": "research/index.html#peer-reviewed-publications",
     "href": "research/index.html#peer-reviewed-publications",
     "title": "Research",
     "section": "",
-    "text": "Pfänder, J., & Altay, S. (2025). Spotting false news and doubting true news: a systematic review and meta-analysis of news judgements. Nature Human Behaviour, 1–12. https://doi.org/10.1038/s41562-024-02086-1 ( preprint |  code & data)\nPfänder, J., De Courson, B., & Mercier, H. (2025). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? Cognition, 255, 106005. https://doi.org/10.1016/j.cognition.2024.106005 ( preprint |  code & data)"
+    "text": "Richardson, E., Davis, M., Isaac, & Keil, F. (2025). Agenda setting and the emperor’s new clothes: People diagnose information cascades during sequential testimony by reasoning about informants’ speaking order and social status. Open Mind. https://doi.org/10.31234/osf.io/vkgz5 ( PDF |  code & data)\nRichardson, E., Hok, H., Shaw, A., & Keil, F. (2025). Herding cats: Children and adults infer collective decision speed from team size and diversity, but disagree about whether consensus strength matters more than team size. Cognition, 263, 106211. https://doi.org/10.1016/j.cognition.2025.106211 ( Manuscript |  code & data)\nMenendez, D., Richardson, E., McNeil, K., & Gelman, S. (2024). Discovering the world of viruses: Testing the influence of anthropomorphic representations on children’s learning about COVID-19. Developmental Psychology, 61, 513–529. https://doi.org/10.1037/dev0001882 ( PDF |  code & data)\nRichardson, E., & Keil, F. (2022). The potential for effective reasoning guides children’s preference for small group discussion over crowdsourcing. Scientific Reports, 12, 1193. https://doi.org/10.1038/s41598-021-04680-z ( PDF |  code & data)\nRichardson, E., & Keil, F. (2022). Thinking takes time: Children use agents’ response times to infer the source, quality, and complexity of their knowledge. Cognition, 224. https://doi.org/10.1016/j.cognition.2022.105073 ( PDF |  code & data)\nRichardson, E., Sheskin, M., & Keil, F. (2021). An illusion of self‐sufficiency for learning about artifacts in scaffolded learners, but not observers. Child Development, 92, 1523–1538. https://doi.org/https://doi.org/10.1111/cdev.13506 ( PDF |  code & data)"
   },
   {
     "objectID": "research/index.html#large-collaborations",
@@ -123,7 +123,7 @@
     "href": "research/index.html#conference-proceedings",
     "title": "Research",
     "section": "Conference Proceedings",
-    "text": "Conference Proceedings\n\nPfänder, J., Courson, B. de, & Mercier, H. (2024). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? Proceedings of the Annual Meeting of the Cognitive Science Society, 46(0). https://escholarship.org/uc/item/4ms2n8wd( pdf | poster |  code & data)"
+    "text": "Conference Proceedings\n\npfanderHowWiseCrowd2024?( pdf | poster |  code & data)"
   },
   {
     "objectID": "research/index.html#working-papers",
@@ -142,9 +142,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hi!",
+    "title": "Emory Richardson",
     "section": "",
-    "text": "Hi!\nI am Jan, a PhD student working on misinformation and trust in science.\nMore broadly, I’m interested in how people evaluate information, and what drives people to develop and propagate explanations about the world, including science, but also conspiracy theories, religion, or political ideology.\nI’m supervised by Hugo Mercier, and I am part of the Evolution and Social Cognition team."
+    "text": "Hi! I’m an applied data scientist. I build experiments and statistical models to find the difference-that-makes-a-difference in behavior, beliefs, and decisons.\nThings I get excited about: data, puzzles, theory, statistical methods, good writing, philosophy of science, social network topologies & their influence on cumulative culture, learning strategies based on conformity / Condorcet methods / “the wisdom of crowds”, the spread of (mis)information, languages, and funky bass. Also kettlebells.\npast: postdoc @ UMich | PhD @ Yale | MAPSS @ UChicago RPCV @ US Peace Corps | Philosophy & History of Science @ stjohnscollege"
   },
   {
     "objectID": "blog/2024-09_tracked-changes/index.html",
@@ -179,13 +179,41 @@
     "href": "teaching/index.html",
     "title": "Teaching",
     "section": "",
-    "text": "Epistémologie et Esprit Critique (or, Introduction to research design)\n\n\n\nresearch design\n\n\nstatistics\n\n\nsimulation\n\n\nR\n\n\nggplot\n\n\n\nA hands-on introduction to research_design for students of the Sciences Pour un Monde Durable (SMD) undergraduate program at Paris Sciences et Lettres (PSL) University\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Epistémologie et Esprit Critique (or, Introduction to research design)\n\n\n\nresearch design\n\nstatistics\n\nsimulation\n\nR\n\nggplot\n\n\n\nA hands-on introduction to research_design for students of the Sciences Pour un Monde Durable (SMD) undergraduate program at Paris Sciences et Lettres (PSL) University\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv/index.html",
     "href": "cv/index.html",
-    "title": "Jan Pfänder",
+    "title": "Emory Richardson",
     "section": "",
     "text": "Download current CV"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Richardson, E., Davis, M., Isaac, & Keil, F. (2025). Agenda setting and the emperor’s new clothes: People diagnose information cascades during sequential testimony by reasoning about informants’ speaking order and social status. Open Mind. https://doi.org/10.31234/osf.io/vkgz5 ( Manuscript |  code & data)\nRichardson, E., Hok, H., Shaw, A., & Keil, F. (2025). Herding cats: Children and adults infer collective decision speed from team size and diversity, but disagree about whether consensus strength matters more than team size. Cognition, 263, 106211. https://doi.org/10.1016/j.cognition.2025.106211 ( PDF |  code & data)\nMenendez, D., Richardson, E., McNeil, K., & Gelman, S. (2024). Discovering the world of viruses: Testing the influence of anthropomorphic representations on children’s learning about COVID-19. Developmental Psychology, 61, 513–529. https://doi.org/10.1037/dev0001882 ( PDF |  code & data)\nRichardson, E., & Keil, F. (2022). The potential for effective reasoning guides children’s preference for small group discussion over crowdsourcing. Scientific Reports, 12, 1193. https://doi.org/10.1038/s41598-021-04680-z ( PDF |  code & data)\nRichardson, E., & Keil, F. (2022). Thinking takes time: Children use agents’ response times to infer the source, quality, and complexity of their knowledge. Cognition, 224. https://doi.org/10.1016/j.cognition.2022.105073 ( PDF |  code & data)\nRichardson, E., Sheskin, M., & Keil, F. (2021). An illusion of self‐sufficiency for learning about artifacts in scaffolded learners, but not observers. Child Development, 92, 1523–1538. https://doi.org/https://doi.org/10.1111/cdev.13506 ( PDF |  code & data)"
+  },
+  {
+    "objectID": "publications/index.html#peer-reviewed-publications",
+    "href": "publications/index.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Richardson, E., Davis, M., Isaac, & Keil, F. (2025). Agenda setting and the emperor’s new clothes: People diagnose information cascades during sequential testimony by reasoning about informants’ speaking order and social status. Open Mind. https://doi.org/10.31234/osf.io/vkgz5 ( Manuscript |  code & data)\nRichardson, E., Hok, H., Shaw, A., & Keil, F. (2025). Herding cats: Children and adults infer collective decision speed from team size and diversity, but disagree about whether consensus strength matters more than team size. Cognition, 263, 106211. https://doi.org/10.1016/j.cognition.2025.106211 ( PDF |  code & data)\nMenendez, D., Richardson, E., McNeil, K., & Gelman, S. (2024). Discovering the world of viruses: Testing the influence of anthropomorphic representations on children’s learning about COVID-19. Developmental Psychology, 61, 513–529. https://doi.org/10.1037/dev0001882 ( PDF |  code & data)\nRichardson, E., & Keil, F. (2022). The potential for effective reasoning guides children’s preference for small group discussion over crowdsourcing. Scientific Reports, 12, 1193. https://doi.org/10.1038/s41598-021-04680-z ( PDF |  code & data)\nRichardson, E., & Keil, F. (2022). Thinking takes time: Children use agents’ response times to infer the source, quality, and complexity of their knowledge. Cognition, 224. https://doi.org/10.1016/j.cognition.2022.105073 ( PDF |  code & data)\nRichardson, E., Sheskin, M., & Keil, F. (2021). An illusion of self‐sufficiency for learning about artifacts in scaffolded learners, but not observers. Child Development, 92, 1523–1538. https://doi.org/https://doi.org/10.1111/cdev.13506 ( PDF |  code & data)"
+  },
+  {
+    "objectID": "publications/index.html#conference-proceedings",
+    "href": "publications/index.html#conference-proceedings",
+    "title": "Publications",
+    "section": "Conference Proceedings",
+    "text": "Conference Proceedings\n\nRichardson, E., Hok, H., Shaw, A., & Keil, F. (2023). Herding cats: Children’s intuitive theories of persuasion predict slower collective decisions in larger and more diverse groups, but disregard factional power. Proceedings of the Cognitive Science Society, 7. https://escholarship.org/content/qt7sj3b4bv/qt7sj3b4bv.pdf( pdf | SPP Poster\nRichardson, E., Davis, I., & Keil, F. C. (2023). Agenda setting and The Emperor’s New Clothes: People infer that letting powerful agents make their opinion known early can trigger information cascades and pluralistic ignorance. Proceedings of the Cognitive Science Society, 7. https://escholarship.org/content/qt31k4r1vh/qt31k4r1vh.pdf( pdf\nRichardson, E., & Keil, F. C. (2022). “He only changed his answer because they shouted at him”: Children use affective cues to distinguish between genuine and forced consensus. Proceedings of the Cognitive Science Society, 7. https://escholarship.org/uc/item/5m79x64g( pdf | cogsci poster\nRichardson, E., Miro-Rivera, D., & Keil, F. C. (2022). Know your network: People infer cultural drift from network structure, and expect collaborating with more distant experts to improve innovation, but collaborating with network-neighbors to improve memory. Proceedings of the Cognitive Science Society, 7. https://escholarship.org/content/qt85c8h8wp/qt85c8h8wp_noSplash_55ed198b92024c588f556231f727136f.pdf( pdf | cogsci poster\nRichardson, E., & Keil, F. (2021, June). You can’t trust an angry group- asymmetric evaluations of angry and surprised rhetoric affect confidence in trending opinions. Proceedings of the Cognitive Science Society. https://doi.org/10.31234/osf.io/y3wv2( pdf | cogsci poster\nRichardson, E., & Keil, F. C. (2020). Does informational independence always matter? Children believe small group discussion is more accurate than ten times as many independent informants. Proceedings of the Cognitive Science Society, 7. https://escholarship.org/uc/item/2q69p85v( pdf\nRichardson, E., & Keil, F. C. (2020). Children use agents’ response time to distinguish between memory and novel inference. Proceedings of the Cognitive Science Society, 7. https://escholarship.org/uc/item/5zn4353d( pdf\nRichardson, E., & Jara-Ettinger, J. (2019). You must know something I don’t: Risky behavior implies privileged information. Proceedings of the Cognitive Science Society, 6. https://escholarship.org/uc/item/3r2767kn( pdf | cogsci poster"
+  },
+  {
+    "objectID": "publications/index.html#talks",
+    "href": "publications/index.html#talks",
+    "title": "Publications",
+    "section": "Talks",
+    "text": "Talks\n\nPfänder, J., & Mercier, H. (2025, March). Trust in science. Paris School of International Affairs (Sciences Po), Paris.\nPfänder, J., & Altay, S. (2025, March). Spotting False News and Doubting True News. A Meta-Analysis of News Judgments. Infox sur seine, Paris.\nPfänder, J. (2024, July). How wise is the crowd: Can we infer people are accurate and competent merely because they agree with each other? 46th Annual Meeting of the Cognitive Science Society, Rotterdam.\nPfänder, J. (2024, June). Processus sous-tendant la confiance dans la science. 5ème édition des Rencontres Jeunes Chercheur·euse·s, Grenoble.\nPfänder, J., & Altay, S. (2024, February). Spotting False News and Doubting True News: A Meta-Analysis of News Judgments. EDMO Scientific Conference on Disinformation, Amsterdam."
   }
 ]
