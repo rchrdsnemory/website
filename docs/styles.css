@@ -14,3 +14,21 @@
   color: #007acc;
 }
 
+/* Adjust layout proportions on the home page */
+.home-about {
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+}
+
+/* Left column: photo and links */
+.home-about > .image-left {
+  flex: 0 0 30%;
+  max-width: 30%;
+}
+
+/* Right column: text */
+.home-about > .text-right {
+  flex: 0 0 70%;
+  max-width: 70%;
+}
