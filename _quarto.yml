@@ -16,7 +16,7 @@ website:
     # your sub-pages
     left:
       - text: "Publications"
-        href: research/index.qmd
+        href: publications/index.qmd
       - text: "Blog"
         href: blog.qmd  
       - text: "Resume"
