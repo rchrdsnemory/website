@@ -23,6 +23,8 @@ about:
 
 ---
 
+
+
 Hi! I'm an applied data scientist. I build experiments and statistical models to find the difference-that-makes-a-difference in behavior, beliefs, and decisons.
 
 Things I get excited about: data, puzzles, theory, statistical methods, good writing, philosophy of science, social network topologies & their influence on cumulative culture, learning strategies based on conformity / Condorcet methods / “the wisdom of crowds”, the spread of (mis)information, languages, and funky bass. Also kettlebells.
