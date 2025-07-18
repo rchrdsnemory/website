@@ -22,13 +22,15 @@
 }
 
 /* Left column: photo and links */
-.home-about > .image-left {
-  flex: 0 0 30%;
-  max-width: 30%;
+.home-about > div:first-child {
+  flex: 0 0 30% !important;
+  max-width: 30% !important;
 }
 
 /* Right column: text */
-.home-about > .text-right {
-  flex: 0 0 70%;
-  max-width: 70%;
+.home-about > div:last-child {
+  flex: 0 0 70% !important;
+  max-width: 70% !important;
 }
+
+
