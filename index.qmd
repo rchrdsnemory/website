@@ -1,5 +1,9 @@
 ---
+title: ""  # Optional — leave blank to suppress text
+title-block-banner: "images/BlackMesa_top.png"  # ← Replace with the path to your painting image
+page-layout: full
 toc: false
+
 about: 
   template: trestles
   image-shape: round
