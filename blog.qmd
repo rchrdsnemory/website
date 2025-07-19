@@ -1,6 +1,6 @@
 ---
 title: "Blog"  # Required to trigger the title block
-title-block-banner: "images/BlackMesa_mid.png"
+title-block-banner: "images/BlackMesa_mid2.png"
 page-layout: full
 listing:
   contents: blog

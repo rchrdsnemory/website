@@ -1,6 +1,6 @@
 ---
 title: "Hello there!"  # Required even if blank
-title-block-banner: "images/BlackMesa_top2.png"  # Path to your banner image
+title-block-banner: "images/BlackMesa_top4.png"  # Path to your banner image
 page-layout: full
 
 about: 
