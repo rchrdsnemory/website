@@ -10,17 +10,17 @@ citations-hover: false
 
 ## Peer reviewed publications
 
--   @AgendaSetting2025 ([<i class="fas fa-file-pdf"></i> Manuscript](/pdfs/RichardsonEtAl_2025_AgendaSetting.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/7t4v2/files/osfstorage))
+-   @AgendaSetting2025([<i class="fas fa-file-pdf"></i> Manuscript](pdfs/RichardsonEtAl_2025_AgendaSetting.pdf)\| [<img src="../images/icon_osf.png" alt="OSF" style="height:1em;">  code & data](https://osf.io/7t4v2/files/osfstorage))
 
--   @HerdingCats2025 ([<i class="fas fa-file-pdf"></i> PDF](/pdfs/RichardsonEtAl_2025_HerdingCats.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/d7szc/files/osfstorage))
+-   @HerdingCats2025([<i class="fas fa-file-pdf"></i> PDF](pdfs/RichardsonEtAl_2025_HerdingCats.pdf) \| [<img src="../images/icon_osf.png" alt="OSF" style="height:1em;"> code & data](https://osf.io/d7szc/files/osfstorage))
 
--   @Viruses2024 ([<i class="fas fa-file-pdf"></i> PDF](/pdfs/MenendezRichardsonEtAl_2024_Viruses.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/h4c26/files/osfstorage))
+-   @Viruses2024([<i class="fas fa-file-pdf"></i> PDF](pdfs/MenendezRichardsonEtAl_2024_Viruses.pdf) \| [<img src="../images/icon_osf.png" alt="OSF" style="height:1em;"> code & data](https://osf.io/h4c26/files/osfstorage))
 
--   @GroupsCrowds2022 ([<i class="fas fa-file-pdf"></i> PDF](/pdfs/RichardsonKeil_2022_EffectiveReasoning.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/6pw5n/files/osfstorage))
+-   @GroupsCrowds2022([<i class="fas fa-file-pdf"></i> PDF](pdfs/RichardsonKeil_2022_EffectiveReasoning.pdf) \| [<img src="../images/icon_osf.png" alt="OSF" style="height:1em;"> code & data](https://osf.io/6pw5n/files/osfstorage))
 
--   @ThinkingTakesTime2022 ([<i class="fas fa-file-pdf"></i> PDF](/pdfs/RichardsonKeil_2022_ThinkingTakesTime.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/z6ykt/files/osfstorage))
+-   @ThinkingTakesTime2022([<i class="fas fa-file-pdf"></i> PDF](pdfs/RichardsonKeil_2022_ThinkingTakesTime.pdf) \| [<img src="../images/icon_osf.png" alt="OSF" style="height:1em;"> code & data](https://osf.io/z6ykt/files/osfstorage))
 
--   @Scaffolding2021 ([<i class="fas fa-file-pdf"></i> PDF](/pdfs/RichardsonEtAl_2021_Scaffolding.pdf) \| [<i class="fab fa-github"></i> code & data](https://osf.io/epk4b/files/osfstorage))
+-   @Scaffolding2021([<i class="fas fa-file-pdf"></i> PDF](pdfs/RichardsonEtAl_2021_Scaffolding.pdf) \| [<img src="../images/icon_osf.png" alt="OSF" style="height:1em;"> code & data](https://osf.io/epk4b/files/osfstorage))
 
 <!--
 ## Working papers
@@ -30,15 +30,23 @@ citations-hover: false
 - @pfanderFrenchTrustMore2025
 -->
 
+
 ## Conference Proceedings
 
 -   @cogsci2023HerdingCats([<i class="fas fa-file-pdf"></i> PDF](pdfs/confpaper_RichardsonEtAl2023_HerdingCats.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>SPP Poster](pdfs/poster_socphilpsych2022_HerdingCats.pdf) 
+
 -   @cogsci2023AgendaSetting([<i class="fas fa-file-pdf"></i> PDF](pdfs/confpaper_RichardsonEtAl2023_AgendaSetting.pdf) 
+
 -   @cogsci2022AngryChildren([<i class="fas fa-file-pdf"></i> PDF](pdfs/confpaper_RichardsonKeil2022_AngerChildren.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>cogsci poster](pdfs/poster_cogsci2022_AngryChildren.pdf) 
+
 -   @cogsci2022KnowYourNetwork([<i class="fas fa-file-pdf"></i> PDF](pdfs/confpaper_RichardsonEtAl2022_KnowYourNetwork.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>cogsci poster](pdfs/poster_cogsci2022_KnowYourNetwork.pdf) 
+
 -   @cogsci2021AngryRhetoric([<i class="fas fa-file-pdf"></i> PDF](pdfs/confpaper_RichardsonKeil2021_AngryRhetoric.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>cogsci poster](pdfs/poster_cogsci2021_AngryRhetoric.pdf) 
+
 -   @cogsci2020InfoIndependence([<i class="fas fa-file-pdf"></i> PDF](pdfs/confpaper_RichardsonKeil2020_InfoIndependence.pdf) 
+
 -   @cogsci2020ThinkingTakesTime([<i class="fas fa-file-pdf"></i> PDF](pdfs/confpaper_RichardsonEtAl2020_ResponseTimes.pdf) 
+
 -   @cosci2019RiskImpliesKnowledge([<i class="fas fa-file-pdf"></i> PDF](pdfs/confpaper_RichardsonJaraEttinger2019_RiskImpliesKnowledge.pdf) \| [<i class="fa-solid fa-person-chalkboard"></i>cogsci poster](pdfs/poster_cogsci2019_RiskImpliesKnowledge.pdf)
 
 

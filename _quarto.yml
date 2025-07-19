@@ -47,6 +47,8 @@ format:
     css: styles.css
     toc: true
     page-layout: full
+    citations:
+      author: "Richardson, Emory"
     
 editor: visual
 
