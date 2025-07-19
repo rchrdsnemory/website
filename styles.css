@@ -36,10 +36,14 @@
 /* Target the image banner and remove dark overlay */
 .quarto-title-banner {
   /* background-blend-mode: normal !important;CAN ADD THIS*/
-  /* background-color: transparent !important; CAN ADD THIS*/
-  filter: brightness(.75) !important;
+   /*background-color: transparent !important; CAN ADD THIS*/
+  filter: brightness(1) !important;
   background-position: bottom !important;
 }
 
+#title-block-header .quarto-title .title {
+  color: transparent !important;
+  text-shadow: none !important;
+}
 
 
