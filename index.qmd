@@ -1,8 +1,7 @@
 ---
-title: ""  # Optional — leave blank to suppress text
-title-block-banner: "images/BlackMesa_top.png"  # ← Replace with the path to your painting image
+title: "Hello there!"  # Required even if blank
+title-block-banner: "images/BlackMesa_top2.png"  # Path to your banner image
 page-layout: full
-toc: false
 
 about: 
   template: trestles

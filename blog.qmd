@@ -1,5 +1,7 @@
 ---
-title: ""
+title: "Blog"  # Required to trigger the title block
+title-block-banner: "images/BlackMesa_mid.png"
+page-layout: full
 listing:
   contents: blog
   sort: "date desc"
@@ -10,8 +12,4 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
-page-layout: full
-title-block-banner: "images/BlackMesa_mid.png"  
-toc: false
 ---
-
